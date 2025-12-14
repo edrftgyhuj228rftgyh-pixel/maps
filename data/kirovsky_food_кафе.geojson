@@ -1,0 +1,1189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001105864605",
+        "name": "Бишкек-1, банкетный зал",
+        "address_name": "Канонерский остров, 22/1",
+        "rubrics": "Кафе,Банкетные залы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.220219,
+          59.903347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001099075011",
+        "name": "ШашлычОк, кафе",
+        "address_name": "Двинская улица, 10",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247939,
+          59.909032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001093759269",
+        "name": "Обедов, кафе",
+        "address_name": "Стачек проспект, 47 лит БЮ",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248747,
+          59.888924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001069496736",
+        "name": "Сиба. кафе, кофейный автомат",
+        "address_name": "улица Трефолева, 45",
+        "rubrics": "Кофейные автоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.252988,
+          59.893703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838665541",
+        "name": "The Plaсe, ресторан-клуб",
+        "address_name": "улица Маршала Говорова, 47",
+        "rubrics": "Кафе,Бары,Аренда концертных площадок,Банкетные залы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.28971,
+          59.899616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001037680201",
+        "name": "Токио-City, городские рестораны",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Кафе,Рестораны,Суши-бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.273347,
+          59.900015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838670581",
+        "name": "Контакт, бар",
+        "address_name": "площадь Стачек, 7",
+        "rubrics": "Кафе,Бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.27241,
+          59.900719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001032233859",
+        "name": "Теремок, ресторан домашней кухни",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Кафе,Быстрое питание,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.272793,
+          59.900275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838757210",
+        "name": "Екатерингоф, кафе-бар",
+        "address_name": "Перекопская улица, 8",
+        "rubrics": "Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269305,
+          59.902236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001045834745",
+        "name": "La`gom, кафе",
+        "address_name": "Ивана Черных, 10Б",
+        "rubrics": "Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.280241,
+          59.901225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001069303805",
+        "name": "У Яши",
+        "address_name": "Севастопольская улица, 29",
+        "rubrics": "Кафе,Бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2664,
+          59.891062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001021363332",
+        "name": "Кабанчик, кафе",
+        "address_name": "Стачек проспект, 32",
+        "rubrics": "Кафе,Банкетные залы,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.270656,
+          59.888975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001052561412",
+        "name": "Пироговый дворик, кафе-пекарня",
+        "address_name": "Стачек проспект, 2",
+        "rubrics": "Кафе,Пекарни,Доставка еды,Быстрое питание,Кондитерские изделия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.275018,
+          59.899718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838587509",
+        "name": "Егриси, кафе",
+        "address_name": "Стачек проспект, 22",
+        "rubrics": "Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.272795,
+          59.890954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001064908369",
+        "name": "Порт, кафе",
+        "address_name": "Гапсальская улица, 12",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259502,
+          59.911213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001100245443",
+        "name": "Tiger Tea, чайная с шариками",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Кафе,Кофейни"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.27256,
+          59.900229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001036980625",
+        "name": "Все обедают на кухне, кафе",
+        "address_name": "Двинская улица, 3",
+        "rubrics": "Столовые,Быстрое питание,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255765,
+          59.90923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001076268344",
+        "name": "Anusha, кафе",
+        "address_name": "Стачек проспект, 1",
+        "rubrics": "Быстрое питание"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.273818,
+          59.899517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001063161960",
+        "name": "Уни, кафе",
+        "address_name": "Ивана Черных, 4",
+        "rubrics": "Быстрое питание,Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.277009,
+          59.901426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838550308",
+        "name": "БульВар, ресторанный комплекс",
+        "address_name": "улица Маршала Казакова, 12 к2",
+        "rubrics": "Кафе,Рестораны,Доставка еды,Банкетные залы,Караоке-залы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.238983,
+          59.859201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001057269994",
+        "name": "буше, пекарня",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Кафе,Кафе-кондитерские,Пекарни,Кофейни"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.24789,
+          59.859168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838667519",
+        "name": "Хачапурная-хинкальная, кафе",
+        "address_name": "улица Маршала Казакова, 13",
+        "rubrics": "Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.237112,
+          59.859974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001093178966",
+        "name": "Угу, кафе быстрого питания",
+        "address_name": "дорога на Турухтанные острова, 22а",
+        "rubrics": "Кафе,Быстрое питание,Продажа кофе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.231685,
+          59.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841577894",
+        "name": "Матросская тишина, кафе",
+        "address_name": "дорога на Турухтанные острова, 16а",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.234492,
+          59.868981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001098616099",
+        "name": "Окибат, кафе",
+        "address_name": "улица Маршала Казакова, 1",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.249504,
+          59.860792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001075812733",
+        "name": "Double bubble tea, кафе",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Кофейни,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247737,
+          59.85866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001007352723",
+        "name": "Аль-Шарк, кафе",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Быстрое питание,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247314,
+          59.858759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001062938904",
+        "name": "Обедов, кафе",
+        "address_name": "Стачек проспект, 47 лит Б",
+        "rubrics": "Столовые,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.242493,
+          59.880713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001034787804",
+        "name": "Кузу, ресторан-банкетный зал",
+        "address_name": "Краснопутиловская улица, 14/12",
+        "rubrics": "Кафе,Рестораны,Банкетные залы,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265483,
+          59.872686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001082676689",
+        "name": "Брынза, чебуречная",
+        "address_name": "улица Зайцева, 13",
+        "rubrics": "Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.266993,
+          59.872325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001061204088",
+        "name": "Inside, бар",
+        "address_name": "Стачек проспект, 72",
+        "rubrics": "Кафе,Бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.263218,
+          59.879312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001017509737",
+        "name": "Штолле, кафе-пироговая",
+        "address_name": "Стачек проспект, 74/1",
+        "rubrics": "Кафе,Доставка еды,Продукты быстрого приготовления"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258889,
+          59.876153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001047056393",
+        "name": "Ислом-ата, кафе-чайхана",
+        "address_name": "Автовская улица, 35 лит А",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279171,
+          59.877351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838608773",
+        "name": "Dog & Duck, пивной бар",
+        "address_name": "Стачек проспект, 69",
+        "rubrics": "Кафе,Бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259532,
+          59.868983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001007421126",
+        "name": "Люблю кебаб, кафе",
+        "address_name": "Краснопутиловская улица, 21",
+        "rubrics": "Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.267645,
+          59.871081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838525252",
+        "name": "Берёзка, кафе",
+        "address_name": "Кронштадтская улица, 20",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.257453,
+          59.869007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001066161325",
+        "name": "Кафе",
+        "address_name": "Трамвайный проспект, 22 к2",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.273237,
+          59.856419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001076019662",
+        "name": "Народное, кафе",
+        "address_name": "Кронштадтская улица, 11а",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255785,
+          59.868374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103428412",
+        "name": "Красное, кафе",
+        "address_name": "Краснопутиловская улица, 65",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.282476,
+          59.863336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001061167915",
+        "name": "Старый Ташкент, кафе",
+        "address_name": "Кронштадтская улица, 11 лит А",
+        "rubrics": "Быстрое питание,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.256304,
+          59.868933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001095249382",
+        "name": "Клумба, кафе",
+        "address_name": "Автовская улица, 31 к2",
+        "rubrics": "Быстрое питание"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.276645,
+          59.874269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001077797639",
+        "name": "Красное, кафе",
+        "address_name": "Краснопутиловская улица, 65",
+        "rubrics": "Быстрое питание"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.282538,
+          59.863374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838491308",
+        "name": "Токио-City, городские рестораны",
+        "address_name": "проспект Ветеранов, 114 к1",
+        "rubrics": "Кафе,Рестораны,Суши-бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.199946,
+          59.832724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838823092",
+        "name": "Пироговый дворик, кафе-пекарня",
+        "address_name": "проспект Ветеранов, 108 к1",
+        "rubrics": "Кафе,Пекарни,Доставка еды,Быстрое питание"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.206383,
+          59.832835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838877213",
+        "name": "Pizza Italiana, пиццерия",
+        "address_name": "проспект Ветеранов, 101",
+        "rubrics": "Кафе,Пиццерии"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.204415,
+          59.834021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001089450335",
+        "name": "СПБ шаверма, кафе",
+        "address_name": "Стойкости, 20 к2",
+        "rubrics": "Быстрое питание,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.206814,
+          59.827115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001099345887",
+        "name": "У Любани, кафе",
+        "address_name": "Народного Ополчения проспект, 201",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.190683,
+          59.824005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001038420666",
+        "name": "Белые ночи, ресторан",
+        "address_name": "улица Бурцева, 23 лит А",
+        "rubrics": "Кафе,Рестораны,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.213298,
+          59.835184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001036430101",
+        "name": "Мароканд, чайхана",
+        "address_name": "улица Солдата Корзуна, 40",
+        "rubrics": "Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.221178,
+          59.831504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838483359",
+        "name": "The Templet bar, ирландский паб",
+        "address_name": "Дачный проспект, 9 к1",
+        "rubrics": "Кафе,Бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.245216,
+          59.846476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838480167",
+        "name": "Joy`s pizza, пиццерия",
+        "address_name": "проспект Ветеранов, 91 к1",
+        "rubrics": "Кафе,Пиццерии,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.212968,
+          59.833787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001083405895",
+        "name": "Renai",
+        "address_name": "Стачек проспект, 216 к2",
+        "rubrics": "Кафе,Суши-бары,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2245,
+          59.84686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552840365046",
+        "name": "Горка, кафе",
+        "address_name": "проспект Ветеранов, 78",
+        "rubrics": "Кафе,Доставка еды,Банкетные залы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.216984,
+          59.833106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001045330880",
+        "name": "Жара, кафе",
+        "address_name": "Стойкости, 8",
+        "rubrics": "Кафе,Доставка еды,Банкетные залы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217127,
+          59.827655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001060035896",
+        "name": "Мароканд, чайхана",
+        "address_name": "Дачный проспект, 9 ст1",
+        "rubrics": "Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.246398,
+          59.845923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001069193706",
+        "name": "Кафе",
+        "address_name": "проспект Ветеранов, 56",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.237943,
+          59.838005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001048241388",
+        "name": "Vлаvаше, кафе",
+        "address_name": "проспект Ветеранов, 91 к1 ст1",
+        "rubrics": "Быстрое питание,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.213102,
+          59.833863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839075205",
+        "name": "Витамин, кафе",
+        "address_name": "Ленинский проспект, 101 лит Ж",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.230368,
+          59.851103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001037558495",
+        "name": "Кафе",
+        "address_name": "улица Зины Портновой, 21 к4",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.25118,
+          59.849559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001092502843",
+        "name": "Кафе восточной кухни",
+        "address_name": "улица Бурцева, 23 лит А",
+        "rubrics": "Быстрое питание"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.214113,
+          59.835515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001100405523",
+        "name": "Токио-City, городские рестораны",
+        "address_name": "Ленинский проспект, 121 к5",
+        "rubrics": "Кафе,Суши-бары,Рестораны"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261231,
+          59.851491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001020556069",
+        "name": "Токио-City, городские рестораны",
+        "address_name": "Дачный проспект, 18",
+        "rubrics": "Кафе,Рестораны,Суши-бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255018,
+          59.842309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839887087",
+        "name": "Семейный очаг, кафе-ресторан",
+        "address_name": "бульвар Новаторов, 32 к2",
+        "rubrics": "Кафе,Рестораны,Банкетные залы,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.270415,
+          59.848444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001056942471",
+        "name": "Samsa.uz, кафе",
+        "address_name": "бульвар Новаторов, 11",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.267051,
+          59.85101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838545587",
+        "name": "буше, пекарня",
+        "address_name": "бульвар Новаторов, 11 к2 лит А",
+        "rubrics": "Кафе,Пекарни,Кофейни,Кафе-кондитерские"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268572,
+          59.850999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001026720627",
+        "name": "На парах, ресторан здорового питания",
+        "address_name": "бульвар Новаторов, 11 к2 лит А",
+        "rubrics": "Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268538,
+          59.850927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838538295",
+        "name": "Buona Cucina, уютное кафе",
+        "address_name": "улица Зины Портновой, 32",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.256669,
+          59.852316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839815745",
+        "name": "Beer House, сеть баров",
+        "address_name": "бульвар Новаторов, 11",
+        "rubrics": "Кафе,Рестораны,Бары,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.267379,
+          59.85063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001068041331",
+        "name": "Чито Гврито, ресторан грузинской кухни",
+        "address_name": "Народного Ополчения проспект, 10",
+        "rubrics": "Кафе,Рестораны,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.28205,
+          59.851222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001100809026",
+        "name": "Хлебник, пекарня",
+        "address_name": "улица Зины Портновой, 54",
+        "rubrics": "Кафе,Пекарни,Кофейни"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.256687,
+          59.848399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001095223420",
+        "name": "Вкусно — и точка, кафе",
+        "address_name": "бульвар Новаторов, 11 к2 лит А",
+        "rubrics": "Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268169,
+          59.85084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841485051",
+        "name": "Дачное, кафе",
+        "address_name": "Народного Ополчения проспект, 26Б",
+        "rubrics": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269612,
+          59.836376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001034384891",
+        "name": "Кебаб, кафе",
+        "address_name": "Дачный проспект, 21 к1 лит А",
+        "rubrics": "Быстрое питание,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.257047,
+          59.840244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001096452275",
+        "name": "Розмарин, кафе",
+        "address_name": "Ленинский проспект, 140 лит Е",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.283433,
+          59.853987
+        ]
+      }
+    }
+  ]
+}

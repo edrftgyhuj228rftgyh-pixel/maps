@@ -1,0 +1,122 @@
+from pathlib import Path
+
+import numpy as np
+import pandas as pd
+import geopandas as gpd
+from sklearn.cluster import DBSCAN
+import folium
+
+
+BASE_DIR = Path(__file__).resolve().parent
+DATA_CSV = BASE_DIR / "data" / "kirovsky_data_categorized.csv"
+OUT_HTML = BASE_DIR / "maps" / "kirovsky_dbscan_variants.html"
+
+print(f"Читаю данные из: {DATA_CSV}")
+df = pd.read_csv(DATA_CSV)
+
+required = {"lat", "lon"}
+missing = required - set(df.columns)
+if missing:
+    raise RuntimeError(f"В данных не хватает столбцов: {missing}")
+
+# чистим
+df = df.dropna(subset=["lat", "lon"]).copy()
+
+# GeoDataFrame и проекция в метры (WebMercator)
+gdf = gpd.GeoDataFrame(
+    df,
+    geometry=gpd.points_from_xy(df["lon"], df["lat"]),
+    crs="EPSG:4326",
+)
+gdf_3857 = gdf.to_crs(epsg=3857)
+
+coords = np.vstack([gdf_3857.geometry.x.values, gdf_3857.geometry.y.values]).T
+
+# Набор конфигураций DBSCAN, которые сравниваем
+DBSCAN_CONFIGS = [
+    {"name": "eps120_m3", "eps": 120.0, "min_samples": 3},
+    {"name": "eps180_m4", "eps": 180.0, "min_samples": 4},
+    {"name": "eps250_m5", "eps": 250.0, "min_samples": 5},
+]
+
+print("Конфигурации DBSCAN:")
+for cfg in DBSCAN_CONFIGS:
+    print(f" - {cfg['name']}: eps={cfg['eps']} м, min_samples={cfg['min_samples']}")
+
+# Считаем кластеры для каждого набора параметров
+labels_dict = {}
+for cfg in DBSCAN_CONFIGS:
+    db = DBSCAN(
+        eps=cfg["eps"],
+        min_samples=cfg["min_samples"],
+        metric="euclidean",
+    )
+    labels = db.fit_predict(coords)
+    labels_dict[cfg["name"]] = labels
+    print(
+        f"{cfg['name']}: кластеров (без -1) = {len(set(labels) - {-1})}, "
+        f"шумовых точек = {(labels == -1).sum()}"
+    )
+
+# Возвращаемся в WGS84 для карты
+gdf_4326 = gdf_3857.to_crs(epsg=4326).copy()
+
+# Базовая карта
+center_lat = float(gdf_4326.geometry.y.mean())
+center_lon = float(gdf_4326.geometry.x.mean())
+
+m = folium.Map(location=[center_lat, center_lon], zoom_start=12, tiles="cartodbpositron")
+
+palette = [
+    "#e41a1c", "#377eb8", "#4daf4a", "#984ea3",
+    "#ff7f00", "#ffff33", "#a65628", "#f781bf",
+    "#999999", "#66c2a5", "#fc8d62", "#8da0cb",
+]
+
+
+def color_for_label(label: int):
+    if label == -1:
+        return "#aaaaaa"  # шум
+    # сдвигаем, чтобы -1 не мешал индексации
+    idx = int(label) % len(palette)
+    return palette[idx]
+
+
+# Для каждого варианта DBSCAN — отдельный слой
+for i, cfg in enumerate(DBSCAN_CONFIGS):
+    name = cfg["name"]
+    labels = labels_dict[name]
+
+    layer = folium.FeatureGroup(
+        name=f"DBSCAN {name} (eps={cfg['eps']}, min={cfg['min_samples']})",
+        show=(i == 0),  # первый вариант включён по умолчанию
+    )
+
+    for (_, row), label in zip(gdf_4326.iterrows(), labels):
+        color = color_for_label(label)
+
+        folium.CircleMarker(
+            location=[row.geometry.y, row.geometry.x],
+            radius=3,
+            color=color,
+            fill=True,
+            fill_opacity=0.8,
+            popup=folium.Popup(
+                f"""
+                <b>{row.get('name', '')}</b><br>
+                label: {label}<br>
+                category: {row.get('category', '')}<br>
+                subcategory: {row.get('subcategory', '')}
+                """,
+                max_width=300,
+            ),
+        ).add_to(layer)
+
+    layer.add_to(m)
+
+folium.LayerControl().add_to(m)
+
+OUT_HTML.parent.mkdir(parents=True, exist_ok=True)
+m.save(str(OUT_HTML))
+
+print(f"\nКарта с вариантами DBSCAN сохранена в: {OUT_HTML}")

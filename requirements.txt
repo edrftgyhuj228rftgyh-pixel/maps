@@ -1,0 +1,9 @@
+requests
+python-dotenv
+shapely
+pyproj==3.6.1
+pandas
+pyarrow
+shapely
+requests
+geopandas

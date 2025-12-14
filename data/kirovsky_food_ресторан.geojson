@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001037680201",
+        "name": "Токио-City, городские рестораны",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Рестораны,Суши-бары,Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.273347,
+          59.900015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103858058",
+        "name": "Ши кэ, ресторан китайской кухни",
+        "address_name": "Стачек проспект, 46",
+        "rubrics": "Рестораны,Банкетные залы,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26771,
+          59.886045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001065446070",
+        "name": "Александр, ресторан",
+        "address_name": "Гапсальская улица, 2",
+        "rubrics": "Рестораны"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259518,
+          59.912463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838550308",
+        "name": "БульВар, ресторанный комплекс",
+        "address_name": "улица Маршала Казакова, 12 к2",
+        "rubrics": "Рестораны,Доставка еды,Кафе,Банкетные залы,Караоке-залы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.238983,
+          59.859201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838746696",
+        "name": "Евразия, рестораны японской и европейской кухни",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Рестораны,Суши-бары,Доставка еды,Бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248731,
+          59.858471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001034787804",
+        "name": "Кузу, ресторан-банкетный зал",
+        "address_name": "Краснопутиловская улица, 14/12",
+        "rubrics": "Рестораны,Кафе,Банкетные залы,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265483,
+          59.872686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838545775",
+        "name": "Mama roma, ресторан итальянской кухни",
+        "address_name": "Стачек проспект, 86",
+        "rubrics": "Рестораны,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.260214,
+          59.86983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001017229827",
+        "name": "Black beer, паб",
+        "address_name": "Стачек проспект, 55",
+        "rubrics": "Рестораны,Бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.257788,
+          59.877158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839385726",
+        "name": "Alt velvet, пивной ресторан",
+        "address_name": "Стачек проспект, 57",
+        "rubrics": "Рестораны"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.256582,
+          59.875855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838775839",
+        "name": "Эмираты, ресторан",
+        "address_name": "Стачек проспект, 48 к2",
+        "rubrics": "Рестораны"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265816,
+          59.8835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001093674839",
+        "name": "Yujin express, ресторан",
+        "address_name": "улица Васи Алексеева, 6",
+        "rubrics": "Быстрое питание"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265436,
+          59.87957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838491308",
+        "name": "Токио-City, городские рестораны",
+        "address_name": "проспект Ветеранов, 114 к1",
+        "rubrics": "Рестораны,Суши-бары,Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.199946,
+          59.832724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838497781",
+        "name": "Bona, итальянский ресторан",
+        "address_name": "проспект Ветеранов, 105",
+        "rubrics": "Рестораны,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.201306,
+          59.833497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001024695428",
+        "name": "Хачапури, семейный ресторан",
+        "address_name": "проспект Ветеранов, 109",
+        "rubrics": "Рестораны,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.19866,
+          59.83345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001033395788",
+        "name": "Склад, гастропаб",
+        "address_name": "проспект Маршала Жукова, 36 к1",
+        "rubrics": "Рестораны,Бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.225036,
+          59.852481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838871828",
+        "name": "Тан Жен, ресторан китайской кухни",
+        "address_name": "улица Лёни Голикова, 3",
+        "rubrics": "Рестораны,Доставка еды,Банкетные залы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.228368,
+          59.847475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001038420666",
+        "name": "Белые ночи, ресторан",
+        "address_name": "улица Бурцева, 23 лит А",
+        "rubrics": "Рестораны,Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.213298,
+          59.835184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838761035",
+        "name": "Цзао Ван, китайский ресторан",
+        "address_name": "Ленинский проспект, 114",
+        "rubrics": "Рестораны,Банкетные залы,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.242136,
+          59.853037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838550107",
+        "name": "Belvedere Steak Grill, пивной бар",
+        "address_name": "Дачный проспект, 2 к2",
+        "rubrics": "Рестораны,Бары,Банкетные залы,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.242547,
+          59.849692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001100405523",
+        "name": "Токио-City, городские рестораны",
+        "address_name": "Ленинский проспект, 121 к5",
+        "rubrics": "Рестораны,Суши-бары,Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261231,
+          59.851491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001020556069",
+        "name": "Токио-City, городские рестораны",
+        "address_name": "Дачный проспект, 18",
+        "rubrics": "Рестораны,Суши-бары,Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255018,
+          59.842309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841074744",
+        "name": "Марчеллис, ресторан авторской итальянской кухни",
+        "address_name": "Ленинский проспект, 120",
+        "rubrics": "Рестораны,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259228,
+          59.852308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839887087",
+        "name": "Семейный очаг, кафе-ресторан",
+        "address_name": "бульвар Новаторов, 32 к2",
+        "rubrics": "Рестораны,Кафе,Банкетные залы,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.270415,
+          59.848444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001029100894",
+        "name": "Евразия, рестораны японской и европейской кухни",
+        "address_name": "бульвар Новаторов, 32",
+        "rubrics": "Рестораны,Суши-бары,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269137,
+          59.847784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001076312831",
+        "name": "Тан Жен, ресторан китайской кухни",
+        "address_name": "Ленинский проспект, 132",
+        "rubrics": "Рестораны,Банкетные залы,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.273174,
+          59.85238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839815745",
+        "name": "Beer House, сеть баров",
+        "address_name": "бульвар Новаторов, 11",
+        "rubrics": "Рестораны,Бары,Доставка еды,Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.267379,
+          59.85063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001068041331",
+        "name": "Чито Гврито, ресторан грузинской кухни",
+        "address_name": "Народного Ополчения проспект, 10",
+        "rubrics": "Рестораны,Кафе,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.28205,
+          59.851222
+        ]
+      }
+    }
+  ]
+}

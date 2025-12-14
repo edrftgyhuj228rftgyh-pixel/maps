@@ -1,0 +1,1205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001069441574",
+        "name": "СберБанк, банкомат",
+        "address_name": "Гладкий остров, 1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.235862,
+          59.903276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001061124019",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Межевой канал, 5",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.250573,
+          59.911106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001020598567",
+        "name": "СберБанк, банкомат",
+        "address_name": "Межевой канал, 3 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.252885,
+          59.910966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001024354141",
+        "name": "Почта Банк, банкомат",
+        "address_name": "Двинская улица, 15",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.242787,
+          59.909562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001097458056",
+        "name": "СберБанк",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Банки,Ипотечные кредиты,Обмен валюты,Электронные подписи,Регистрация и ликвидация предприятий,Операции на фондовом рынке"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.272152,
+          59.899755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001104964216",
+        "name": "Банк ВТБ",
+        "address_name": "Стачек проспект, 18",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279339,
+          59.895395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552840554041",
+        "name": "Банк СГБ",
+        "address_name": "улица Маршала Говорова, 35а",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279418,
+          59.888696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001025784906",
+        "name": "Почта Банк",
+        "address_name": "Стачек проспект, 18",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279339,
+          59.895395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001006492380",
+        "name": "Севергазбанк, банкомат",
+        "address_name": "улица Маршала Говорова, 35 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279418,
+          59.888696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838493477",
+        "name": "Банк Авангард, экcпресс-офис",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банки,Обмен валюты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248618,
+          59.858925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001104965201",
+        "name": "Банк ВТБ",
+        "address_name": "улица Маршала Казакова, 1 к1",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248853,
+          59.859906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001025368662",
+        "name": "Почта Банк",
+        "address_name": "улица Маршала Казакова, 1 к1 лит Д",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247171,
+          59.860189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838496531",
+        "name": "Альфа-Банк, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248821,
+          59.858817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001059706307",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248848,
+          59.858829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001060192966",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стачек проспект, 105 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241037,
+          59.855178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001039834361",
+        "name": "Т-Банк, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248468,
+          59.858865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001090357697",
+        "name": "Т-Банк, банкомат",
+        "address_name": "дорога на Турухтанные острова, 6 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.25139,
+          59.867482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001044846233",
+        "name": "Т-Банк, банкомат",
+        "address_name": "Стачек проспект, 105 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241037,
+          59.855178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001084239283",
+        "name": "СберБанк, банкомат",
+        "address_name": null,
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.229996,
+          59.885546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838561018",
+        "name": "Райффайзенбанк, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248834,
+          59.858823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001018060827",
+        "name": "Альфа-Банк, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248446,
+          59.858878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001024409314",
+        "name": "Почта Банк, банкомат",
+        "address_name": "Стачек проспект, 105",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.239999,
+          59.85516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001025368674",
+        "name": "Почта Банк, банкомат",
+        "address_name": "улица Маршала Казакова, 1 к1 лит Д",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247171,
+          59.860189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001082600862",
+        "name": "МТС Банк, терминал",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Платёжные терминалы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248759,
+          59.858756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001094179710",
+        "name": "ВТБ, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.24848,
+          59.858858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838587666",
+        "name": "Банк Санкт-Петербург",
+        "address_name": "Стачек проспект, 47 лит Е",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259947,
+          59.879839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838493692",
+        "name": "Альфа-банк",
+        "address_name": "Стачек проспект, 47 лит Е",
+        "rubrics": "Банки,Регистрация и ликвидация предприятий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261356,
+          59.881239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001017842646",
+        "name": "СберБанк",
+        "address_name": "улица Маршала Говорова, 12 к1",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Операции на фондовом рынке,Регистрация и ликвидация предприятий,ПИФы,Инвестиционные драгоценные металлы,Электронные подписи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26638,
+          59.878836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001025029480",
+        "name": "Банк ВТБ",
+        "address_name": "Стачек проспект, 47 лит А",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258471,
+          59.878377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838577421",
+        "name": "СберБанк",
+        "address_name": "Стачек проспект, 90",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Операции на фондовом рынке,Регистрация и ликвидация предприятий,Электронные подписи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.260858,
+          59.868324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838577419",
+        "name": "СберБанк",
+        "address_name": "Стачек проспект, 73",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Операции на фондовом рынке,Регистрация и ликвидация предприятий,Электронные подписи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259809,
+          59.868019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001047266317",
+        "name": "Совкомбанк",
+        "address_name": "Стачек проспект, 88",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26067,
+          59.869136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103017317",
+        "name": "Банк ВТБ",
+        "address_name": "Стачек проспект, 69",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259436,
+          59.869319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001028800539",
+        "name": "Почта Банк",
+        "address_name": "Стачек проспект, 69",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259436,
+          59.869319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001029419279",
+        "name": "Совкомбанк",
+        "address_name": "проспект Ветеранов, 105",
+        "rubrics": "Банки,Обмен валюты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.201712,
+          59.833504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838577102",
+        "name": "СберБанк",
+        "address_name": "проспект Ветеранов, 114 к1",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Операции на фондовом рынке,Регистрация и ликвидация предприятий,Электронные подписи,ПИФы,Инвестиционные драгоценные металлы,Факторинг"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.196496,
+          59.832608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838577389",
+        "name": "СберБанк",
+        "address_name": "проспект Ветеранов, 95",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Операции на фондовом рынке,Регистрация и ликвидация предприятий,Электронные подписи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.207483,
+          59.833606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001026703208",
+        "name": "Почта Банк",
+        "address_name": "проспект Ветеранов, 95",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.207257,
+          59.833602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001021576890",
+        "name": "Альфа-банк",
+        "address_name": "Дачный проспект, 17 к3",
+        "rubrics": "Банки,Регистрация и ликвидация предприятий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.249851,
+          59.843922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001090073707",
+        "name": "Банк ВТБ",
+        "address_name": "проспект Ветеранов, 36 к2",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247349,
+          59.843128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838535378",
+        "name": "Банк Уралсиб",
+        "address_name": "проспект Ветеранов, 76",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.220754,
+          59.833943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838577387",
+        "name": "СберБанк",
+        "address_name": "проспект Ветеранов, 43",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Операции на фондовом рынке,Регистрация и ликвидация предприятий,Электронные подписи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241862,
+          59.842124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839791471",
+        "name": "Банк ВТБ",
+        "address_name": "проспект Маршала Жукова, 36 к1",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.224392,
+          59.853149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001104969535",
+        "name": "Банк ВТБ",
+        "address_name": "проспект Ветеранов, 95",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.208006,
+          59.833657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838577388",
+        "name": "СберБанк",
+        "address_name": "проспект Ветеранов, 78",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Операции на фондовом рынке,Регистрация и ликвидация предприятий,Электронные подписи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217436,
+          59.833179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001104968516",
+        "name": "Банк ВТБ",
+        "address_name": "проспект Ветеранов, 78",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.215399,
+          59.832985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838587683",
+        "name": "Совкомбанк",
+        "address_name": "проспект Ветеранов, 52 к1",
+        "rubrics": "Банки,Ипотечные кредиты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.240758,
+          59.840461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001104964018",
+        "name": "Банк ВТБ",
+        "address_name": "проспект Ветеранов, 43",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241777,
+          59.842095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001104967624",
+        "name": "Банк ВТБ",
+        "address_name": "Ленинский проспект, 115",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247432,
+          59.851257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838493558",
+        "name": "Абсолют банк",
+        "address_name": "Ленинский проспект, 109",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Регистрация и ликвидация предприятий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.240694,
+          59.851452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001032569850",
+        "name": "Почта Банк",
+        "address_name": "Ленинский проспект, 115",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.249098,
+          59.851375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001028553228",
+        "name": "Почта Банк",
+        "address_name": "проспект Ветеранов, 43",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241286,
+          59.841898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841212720",
+        "name": "Банк ВТБ",
+        "address_name": "Дачный проспект, 17 к3",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248978,
+          59.843862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001040465201",
+        "name": "Кетовский коммерческий банк, центр обмена валют",
+        "address_name": "бульвар Новаторов, 75",
+        "rubrics": "Обмен валюты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.251054,
+          59.842443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838577399",
+        "name": "СберБанк",
+        "address_name": "Ленинский проспект, 129",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Операции на фондовом рынке,Регистрация и ликвидация предприятий,Электронные подписи,ПИФы,Инвестиционные драгоценные металлы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269928,
+          59.851431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838861851",
+        "name": "Альфа-банк",
+        "address_name": "Ленинский проспект, 130",
+        "rubrics": "Банки,Регистрация и ликвидация предприятий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.27168,
+          59.852253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001007119183",
+        "name": "Банк ВТБ",
+        "address_name": "Ленинский проспект, 124",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.262497,
+          59.852301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001034686268",
+        "name": "Россельхозбанк, банк",
+        "address_name": "Ленинский проспект, 125",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.262482,
+          59.851534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841285827",
+        "name": "Банк ПСБ",
+        "address_name": "бульвар Новаторов, 8",
+        "rubrics": "Банки,Обмен валюты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269206,
+          59.850439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001096842523",
+        "name": "Камкомбанк",
+        "address_name": "Ленинский проспект, 137 лит Б",
+        "rubrics": "Банки,Ипотечные кредиты,Обмен валюты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.278481,
+          59.851428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001099723441",
+        "name": "Райффайзенбанк",
+        "address_name": "Ленинский проспект, 128",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.266258,
+          59.852292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001006654404",
+        "name": "Совкомбанк, кредитно-кассовый офис №2",
+        "address_name": "Ленинский проспект, 128",
+        "rubrics": "Банки,Обмен валюты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.264414,
+          59.852296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001020675911",
+        "name": "Банк Санкт-Петербург, дополнительный офис Дачное",
+        "address_name": "Дачный проспект, 19 к1",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.256568,
+          59.840453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001017275552",
+        "name": "СберБанк",
+        "address_name": "бульвар Новаторов, 98",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Операции на фондовом рынке,Регистрация и ликвидация предприятий,Электронные подписи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.253941,
+          59.841119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001043613271",
+        "name": "Газпромбанк",
+        "address_name": "Ленинский проспект, 124",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261243,
+          59.852304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838664662",
+        "name": "МТС Банк",
+        "address_name": "бульвар Новаторов, 8",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Электронные подписи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269295,
+          59.85104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838577398",
+        "name": "СберБанк",
+        "address_name": "Ленинский проспект, 117 к1",
+        "rubrics": "Банки,Обмен валюты,Ипотечные кредиты,Регистрация и ликвидация предприятий,Электронные подписи,Инвестиционные драгоценные металлы,Операции на фондовом рынке"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255523,
+          59.851155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001017482089",
+        "name": "Банк Санкт-Петербург, Дополнительный офис На Ленинском",
+        "address_name": "Ленинский проспект, 125",
+        "rubrics": "Банки,Обмен валюты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.263173,
+          59.851488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838493814",
+        "name": "Банк Русский Стандарт",
+        "address_name": "Ленинский проспект, 138/5 лит А",
+        "rubrics": "Банки,Обмен валюты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279098,
+          59.852287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001033357402",
+        "name": "Московский кредитный банк",
+        "address_name": "бульвар Новаторов, 8",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269204,
+          59.850182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001018030985",
+        "name": "Банк ВТБ",
+        "address_name": "Ленинский проспект, 130/6",
+        "rubrics": "Банки,Обмен валюты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269932,
+          59.852257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001104966535",
+        "name": "Банк ВТБ",
+        "address_name": "Ленинский проспект, 135 лит А",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.275247,
+          59.851401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001064782295",
+        "name": "Почта Банк",
+        "address_name": "Ленинский проспект, 130/6",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.271609,
+          59.852253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001023684984",
+        "name": "Почта Банк",
+        "address_name": "Ленинский проспект, 135 лит А",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.274888,
+          59.851505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001106510593",
+        "name": "Банк ВТБ",
+        "address_name": "Дачный проспект, 33 к1",
+        "rubrics": "Банки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.263842,
+          59.836683
+        ]
+      }
+    }
+  ]
+}

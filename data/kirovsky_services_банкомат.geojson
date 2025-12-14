@@ -1,0 +1,2773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001069441574",
+        "name": "СберБанк, банкомат",
+        "address_name": "Гладкий остров, 1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.235862,
+          59.903276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001061124019",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Межевой канал, 5",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.250573,
+          59.911106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001020598567",
+        "name": "СберБанк, банкомат",
+        "address_name": "Межевой канал, 3 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.252885,
+          59.910966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001024354141",
+        "name": "Почта Банк, банкомат",
+        "address_name": "Двинская улица, 15",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.242787,
+          59.909562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001006492380",
+        "name": "Севергазбанк, банкомат",
+        "address_name": "улица Маршала Говорова, 35 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279418,
+          59.888696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001047259196",
+        "name": "Альфа-Банк, банкомат",
+        "address_name": "площадь Стачек, 7",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.272282,
+          59.900644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001075342623",
+        "name": "СберБанк, банкомат",
+        "address_name": "площадь Стачек, 2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.274591,
+          59.90111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001100408614",
+        "name": "СберБанк, банкомат",
+        "address_name": "улица Трефолева, 10",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.274567,
+          59.889472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001090288610",
+        "name": "ВТБ, банкомат",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.273055,
+          59.900075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001075850469",
+        "name": "Т-Банк, банкомат",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.272568,
+          59.899817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001030436465",
+        "name": "Т-Банк, банкомат",
+        "address_name": "площадь Стачек, 7",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.272262,
+          59.900669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838502365",
+        "name": "ВТБ, банкомат",
+        "address_name": "Стачек проспект, 18",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279339,
+          59.895395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838585919",
+        "name": "СберБанк, банкомат",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.273069,
+          59.900059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001095648953",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стачек проспект, 1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.274539,
+          59.898812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839469723",
+        "name": "Газпромбанк, банкомат",
+        "address_name": "площадь Стачек, 7",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.272269,
+          59.90066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001036561084",
+        "name": "Совкомбанк, банкомат",
+        "address_name": "Промышленная улица, 19",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.260856,
+          59.897172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001007401089",
+        "name": "СберБанк, банкомат",
+        "address_name": "Урхов переулок, 7 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.281619,
+          59.893063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001075850464",
+        "name": "СберБанк, банкомат",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.272675,
+          59.899841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838585915",
+        "name": "СберБанк, банкомат",
+        "address_name": "Промышленная улица, 7",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.266671,
+          59.898074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001036259141",
+        "name": "ВТБ, банкомат",
+        "address_name": "Урхов переулок, 7 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.281617,
+          59.893025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001033749276",
+        "name": "Промсвязьбанк, банкомат",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.273083,
+          59.900042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838639922",
+        "name": "Морской Банк, банкомат",
+        "address_name": "Гапсальская улица, 5",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.257332,
+          59.911153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552840810698",
+        "name": "СберБанк, банкомат",
+        "address_name": "площадь Стачек, 2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.275076,
+          59.901045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001104234214",
+        "name": "СберБанк, банкомат",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.272408,
+          59.89977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552840812939",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "площадь Стачек, 2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.274591,
+          59.90111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001077418760",
+        "name": "Райффайзенбанк, банкомат",
+        "address_name": "площадь Стачек, 9",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.273049,
+          59.900084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001094135284",
+        "name": "Россельхозбанк, банкомaт",
+        "address_name": "улица Швецова, 12 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.283341,
+          59.896541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001100605601",
+        "name": "СберБанк, банкомат",
+        "address_name": "Межевой канал, 1а",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255596,
+          59.911107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838503122",
+        "name": "ВТБ, банкомат",
+        "address_name": "Промышленная улица, 19",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.260856,
+          59.897172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838642195",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Стачек проспект, 39",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268724,
+          59.887838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838564253",
+        "name": "Газпромбанк, банкомат",
+        "address_name": "улица Маршала Говорова, 41",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2884,
+          59.896362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838962248",
+        "name": "Райффайзенбанк, банкомат",
+        "address_name": "Урхов переулок, 7 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.281605,
+          59.893068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001007433341",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Стачек проспект, 18",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.277194,
+          59.894692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838496531",
+        "name": "Альфа-Банк, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248821,
+          59.858817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001094179710",
+        "name": "ВТБ, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.24848,
+          59.858858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001059706307",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248848,
+          59.858829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001060192966",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стачек проспект, 105 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241037,
+          59.855178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001039834361",
+        "name": "Т-Банк, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248468,
+          59.858865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001090357697",
+        "name": "Т-Банк, банкомат",
+        "address_name": "дорога на Турухтанные острова, 6 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.25139,
+          59.867482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001044846233",
+        "name": "Т-Банк, банкомат",
+        "address_name": "Стачек проспект, 105 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241037,
+          59.855178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838561018",
+        "name": "Райффайзенбанк, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248834,
+          59.858823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838502889",
+        "name": "ВТБ, банкомат",
+        "address_name": "Корабельная улица, 6",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241855,
+          59.875053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001018060827",
+        "name": "Альфа-Банк, банкомат",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248446,
+          59.858878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001024409314",
+        "name": "Почта Банк, банкомат",
+        "address_name": "Стачек проспект, 105",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.239999,
+          59.85516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001025368674",
+        "name": "Почта Банк, банкомат",
+        "address_name": "улица Маршала Казакова, 1 к1 лит Д",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247171,
+          59.860189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001055228250",
+        "name": "Промсвязьбанк, банкомат",
+        "address_name": "Корабельная улица, 6",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241855,
+          59.875053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001084239283",
+        "name": "СберБанк, банкомат",
+        "address_name": null,
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.229996,
+          59.885546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001109487418",
+        "name": "ВТБ, банкомат",
+        "address_name": "улица Маршала Казакова, 1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.249365,
+          59.860834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001041112846",
+        "name": "Т-Банк, банкомат",
+        "address_name": "Стачек проспект, 90",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261015,
+          59.867798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001094509175",
+        "name": "Т-Банк, банкомат",
+        "address_name": "улица Васи Алексеева, 4 ст1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.264354,
+          59.879923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001069071538",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стачек проспект, 70",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26156,
+          59.879659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839741035",
+        "name": "ВТБ, банкомат",
+        "address_name": "Стачек проспект, 90 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261086,
+          59.867266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838608884",
+        "name": "Альфа-Банк, банкомат",
+        "address_name": "улица Васи Алексеева, 6",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265139,
+          59.879729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001092603887",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стачек проспект, 47 лит Ш",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258025,
+          59.8795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839950926",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стачек проспект, 90 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261086,
+          59.867266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001089477216",
+        "name": "Т-Банк, банкомат",
+        "address_name": "улица Маршала Говорова, 16",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269134,
+          59.881435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001095658440",
+        "name": "ВТБ, банкомат",
+        "address_name": "улица Васи Алексеева, 6",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265329,
+          59.879725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001021869028",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стачек проспект, 90",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.260858,
+          59.868324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103061230",
+        "name": "ВТБ, банкомат",
+        "address_name": "Стачек проспект, 69",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259194,
+          59.869748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001096317064",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стачек проспект, 59",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258008,
+          59.874296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001082347991",
+        "name": "Т-Банк, банкомат",
+        "address_name": "улица Васи Алексеева, 6",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265504,
+          59.879776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839741036",
+        "name": "ВТБ, банкомат",
+        "address_name": "Стачек проспект, 70",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26156,
+          59.879659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001094561365",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стачек проспект, 73",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259809,
+          59.868019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001032405148",
+        "name": "Совкомбанк, банкомат",
+        "address_name": "Стачек проспект, 88",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26067,
+          59.869136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001036676009",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Стачек проспект, 47 лит Ш",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258025,
+          59.8795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001065048451",
+        "name": "СберБанк, банкомат",
+        "address_name": "улица Маршала Говорова, 12 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26638,
+          59.878836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001060389993",
+        "name": "СберБанк, банкомат",
+        "address_name": "Краснопутиловская улица, 55",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.274838,
+          59.867484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001040201782",
+        "name": "Т-Банк, банкомат",
+        "address_name": "улица Васи Алексеева, 1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.263172,
+          59.87958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001064484164",
+        "name": "Альфа-Банк, банкомат",
+        "address_name": "Стачек проспект, 47 лит Ш",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261356,
+          59.881239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838627208",
+        "name": "Газпромбанк, банкомат",
+        "address_name": "Стачек проспект, 48 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265683,
+          59.88329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838561650",
+        "name": "Райффайзенбанк, банкомат",
+        "address_name": "улица Васи Алексеева, 6",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265462,
+          59.879787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001040109753",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Стачек проспект, 70",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261762,
+          59.879859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001057186580",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Стачек проспект, 47 лит Ш",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259947,
+          59.879839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001023683293",
+        "name": "СберБанк, банкомат",
+        "address_name": "Народного Ополчения проспект, 2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.284787,
+          59.859556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838563917",
+        "name": "Россия, банкомат",
+        "address_name": "Стачек проспект, 47",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258025,
+          59.8795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838622270",
+        "name": "ЮниКредит банк, банкомат",
+        "address_name": "улица Васи Алексеева, 6",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265522,
+          59.879677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839752114",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Стачек проспект, 90 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261086,
+          59.867266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001023073349",
+        "name": "Газпромбанк, банкомат",
+        "address_name": "Кронштадтская улица, 10",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255181,
+          59.87415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001032736023",
+        "name": "Почта Банк, банкомат",
+        "address_name": "улица Васи Алексеева, 22",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.273493,
+          59.877491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001043021610",
+        "name": "ЮниКредит банк, банкомат",
+        "address_name": "Автовская улица, 15",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268269,
+          59.867536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001055228301",
+        "name": "Промсвязьбанк, банкомат",
+        "address_name": "Стачек проспект, 47",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258025,
+          59.8795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001056539283",
+        "name": "Экспобанк, банкомат",
+        "address_name": "Стачек проспект, 94",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261341,
+          59.866755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001064805087",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Стачек проспект, 106",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2624,
+          59.861365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001065116052",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Стачек проспект, 47 лит Е",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258025,
+          59.8795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001067320520",
+        "name": "Промсвязьбанк, банкомат",
+        "address_name": "улица Васи Алексеева, 4 ст1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.264338,
+          59.879927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001070158092",
+        "name": "Промсвязьбанк, банкомат",
+        "address_name": "улица Маршала Говорова, 29Ш",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.27487,
+          59.885241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001092603884",
+        "name": "ВТБ, банкомат",
+        "address_name": "Стачек проспект, 47 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258471,
+          59.878377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103017318",
+        "name": "Почта Банк, банкомат",
+        "address_name": "Стачек проспект, 69",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259436,
+          59.869319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001109537479",
+        "name": "ВТБ, банкомат",
+        "address_name": "Краснопутиловская улица, 28",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.271503,
+          59.870291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103700770",
+        "name": "ВТБ, банкомат",
+        "address_name": "проспект Ветеранов, 95",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.20756,
+          59.833657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001077480822",
+        "name": "Т-Банк, банкомат",
+        "address_name": "проспект Ветеранов, 114 к4",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.195361,
+          59.832437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001104656880",
+        "name": "СберБанк, банкомат",
+        "address_name": "проспект Ветеранов, 101",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.205019,
+          59.834112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001029419305",
+        "name": "Совкомбанк, банкомат",
+        "address_name": "проспект Ветеранов, 105",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.201712,
+          59.833504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001101574536",
+        "name": "СберБанк, банкомат",
+        "address_name": "проспект Маршала Жукова, 76 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.190233,
+          59.827852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001060697564",
+        "name": "Т-Банк, банкомат",
+        "address_name": "проспект Маршала Жукова, 60 к1 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.204095,
+          59.838388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001024410821",
+        "name": "Почта Банк, банкомат",
+        "address_name": "проспект Ветеранов, 95",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.207257,
+          59.833602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838585710",
+        "name": "СберБанк, банкомат",
+        "address_name": "проспект Ветеранов, 114 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.196496,
+          59.832608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838590493",
+        "name": "СберБанк, банкомат",
+        "address_name": "проспект Ветеранов, 95",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.207483,
+          59.833606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001033923139",
+        "name": "Райффайзенбанк, банкомат",
+        "address_name": "проспект Ветеранов, 101",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.204866,
+          59.834042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001030360561",
+        "name": "Т-Банк, банкомат",
+        "address_name": "проспект Ветеранов, 36 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247755,
+          59.842831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001091208421",
+        "name": "ВТБ, банкомат",
+        "address_name": "проспект Ветеранов, 36 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247349,
+          59.843128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839741038",
+        "name": "ВТБ, банкомат",
+        "address_name": "проспект Маршала Жукова, 36 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.224392,
+          59.853149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001029848237",
+        "name": "СберБанк, банкомат",
+        "address_name": "Дачный проспект, 9 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.244374,
+          59.846833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001068864851",
+        "name": "Т-Банк, банкомат",
+        "address_name": "улица Бурцева, 23 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.214003,
+          59.83567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838590489",
+        "name": "СберБанк, банкомат",
+        "address_name": "проспект Ветеранов, 43",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241862,
+          59.842124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103766471",
+        "name": "Т-Банк, банкомат",
+        "address_name": "проспект Ветеранов, 53 лит И",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.239086,
+          59.840917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001093369780",
+        "name": "ВТБ, банкомат",
+        "address_name": null,
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.253593,
+          59.841733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103700771",
+        "name": "ВТБ, банкомат",
+        "address_name": "проспект Ветеранов, 78",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.215399,
+          59.832985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001102584836",
+        "name": "СберБанк, банкомат",
+        "address_name": "Стойкости, 8 лит В",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.215524,
+          59.827691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001095713540",
+        "name": "Т-Банк, банкомат",
+        "address_name": "Ленинский проспект, 101 лит Ж",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.230368,
+          59.851103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103700773",
+        "name": "ВТБ, банкомат",
+        "address_name": "проспект Ветеранов, 43",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241999,
+          59.842289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103656842",
+        "name": "Ozon Банк, банкомат",
+        "address_name": "улица Солдата Корзуна, 1 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.21614,
+          59.833847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001022963749",
+        "name": "СберБанк, банкомат",
+        "address_name": "проспект Ветеранов, 56",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.237943,
+          59.838005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841165097",
+        "name": "Райффайзенбанк, банкомат",
+        "address_name": "Дачный проспект, 9 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.244374,
+          59.846833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838501189",
+        "name": "Газпромбанк, банкомат",
+        "address_name": "проспект Ветеранов, 89",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.214512,
+          59.834088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001020713084",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": null,
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.249908,
+          59.842278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001088273053",
+        "name": "Совкомбанк, банкомат",
+        "address_name": "проспект Ветеранов, 52 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.240758,
+          59.840461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838537834",
+        "name": "Уралсиб, банкомат",
+        "address_name": "проспект Ветеранов, 76",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.220754,
+          59.833943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838590492",
+        "name": "СберБанк, банкомат",
+        "address_name": "проспект Ветеранов, 89",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.214311,
+          59.834167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001017873669",
+        "name": "СберБанк, банкомат",
+        "address_name": "Ленинский проспект, 103",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.230368,
+          59.851103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001023276570",
+        "name": "Абсолют банк, банкомат",
+        "address_name": "Ленинский проспект, 109",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.240694,
+          59.851452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001044777599",
+        "name": "Промсвязьбанк, банкомат",
+        "address_name": "Ленинский проспект, 103",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.230368,
+          59.851103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838590491",
+        "name": "СберБанк, банкомат",
+        "address_name": "проспект Ветеранов, 78",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217436,
+          59.833179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839752160",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": null,
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.253593,
+          59.841733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841675514",
+        "name": "Райффайзенбанк, банкомат",
+        "address_name": "проспект Ветеранов, 52 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.239327,
+          59.839908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001006545050",
+        "name": "МТС Банк, банкомат",
+        "address_name": "бульвар Новаторов, 98",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.253824,
+          59.84118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001025325562",
+        "name": "Почта Банк, банкомат",
+        "address_name": "улица Лёни Голикова, 3",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.228573,
+          59.847301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001027380534",
+        "name": "Почта Банк, банкомат",
+        "address_name": "проспект Ветеранов, 43",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241286,
+          59.841898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001057261360",
+        "name": "Почта Банк, банкомат",
+        "address_name": "Ленинский проспект, 115",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.249098,
+          59.851375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001097597515",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "проспект Ветеранов, 56",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.237943,
+          59.838005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001082655719",
+        "name": "СберБанк, банкомат",
+        "address_name": "бульвар Новаторов, 98",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.253941,
+          59.841119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001096763993",
+        "name": "Т-Банк, банкомат",
+        "address_name": "проспект Ветеранов, 16",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.253925,
+          59.84562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001099663880",
+        "name": "ВТБ, банкомат",
+        "address_name": "Ленинский проспект, 124",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.262497,
+          59.852301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001077500923",
+        "name": "Т-Банк, банкомат",
+        "address_name": "Ленинский проспект, 128 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2681,
+          59.852613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001059344031",
+        "name": "Альфа-Банк, банкомат",
+        "address_name": "Ленинский проспект, 130",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.27168,
+          59.852253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001051371570",
+        "name": "Т-Банк, банкомат",
+        "address_name": "бульвар Новаторов, 11 к2 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268138,
+          59.850538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838590517",
+        "name": "СберБанк, банкомат",
+        "address_name": "Ленинский проспект, 129",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269928,
+          59.851431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001041771473",
+        "name": "Т-Банк, банкомат",
+        "address_name": "Ленинский проспект, 122",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259865,
+          59.852478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001082995912",
+        "name": "СберБанк, банкомат",
+        "address_name": "Ленинский проспект, 128 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26818,
+          59.852612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001102739814",
+        "name": "ВТБ, банкомат",
+        "address_name": null,
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.267228,
+          59.85171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103906078",
+        "name": "СберБанк, банкомат",
+        "address_name": "Счастливая улица, 13",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.273956,
+          59.843862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001020767485",
+        "name": "СберБанк, банкомат",
+        "address_name": "Ленинский проспект, 117 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255523,
+          59.851155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001082368690",
+        "name": "ВТБ, банкомат",
+        "address_name": "Ленинский проспект, 128 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268441,
+          59.852899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103054603",
+        "name": "Т-Банк, банкомат",
+        "address_name": "Ленинский проспект, 137 лит Б",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.276625,
+          59.851433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001040916031",
+        "name": "Альфа-Банк, банкомат",
+        "address_name": "бульвар Новаторов, 11 к2 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268133,
+          59.850007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001100642329",
+        "name": "СберБанк, банкомат",
+        "address_name": "Дачный проспект, 18",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.254835,
+          59.842404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001075314393",
+        "name": "Т-Банк, банкомат",
+        "address_name": "Народного Ополчения проспект, 6",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.281486,
+          59.852497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001060280047",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": null,
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269664,
+          59.851679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001068866996",
+        "name": "Т-Банк, банкомат",
+        "address_name": "улица Зины Портновой, 36",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.256649,
+          59.849701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001043593567",
+        "name": "Газпромбанк, банкомат",
+        "address_name": "Ленинский проспект, 124",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261243,
+          59.852304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001053357807",
+        "name": "Райффайзенбанк, банкомат",
+        "address_name": "бульвар Новаторов, 11 к2 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268602,
+          59.849478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838959388",
+        "name": "МТС Банк, банкомат",
+        "address_name": "бульвар Новаторов, 8",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269295,
+          59.85104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001006816216",
+        "name": "Совкомбанк, банкомат",
+        "address_name": "Ленинский проспект, 128",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.264414,
+          59.852296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001035625908",
+        "name": "Россельхозбанк, банкомaт",
+        "address_name": "Ленинский проспект, 125",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.262482,
+          59.851534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838590516",
+        "name": "СберБанк, банкомат",
+        "address_name": "Ленинский проспект, 128 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268273,
+          59.852899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001051411463",
+        "name": "СберБанк, банкомат",
+        "address_name": "бульвар Новаторов, 11 к2 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268155,
+          59.85043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103985284",
+        "name": "Т-Банк, банкомат",
+        "address_name": "Счастливая улица, 5",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.271944,
+          59.844855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001099741886",
+        "name": "Райффайзенбанк, банкомат",
+        "address_name": "Ленинский проспект, 128",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.266258,
+          59.852292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001109664458",
+        "name": "СберБанк, банкомат",
+        "address_name": "Народного Ополчения проспект, 19",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279745,
+          59.848793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001103061231",
+        "name": "ВТБ, банкомат",
+        "address_name": "Ленинский проспект, 135 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.275247,
+          59.851401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838564218",
+        "name": "Газпромбанк, банкомат",
+        "address_name": "Ленинский проспект, 128 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268407,
+          59.8529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001102990467",
+        "name": "Райффайзенбанк, банкомат",
+        "address_name": "Ленинский проспект, 128",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.266258,
+          59.852292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001022756872",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Дачный проспект, 19 к1",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.256568,
+          59.840453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001017482111",
+        "name": "Банк Санкт-Петербург, банкомат",
+        "address_name": "Ленинский проспект, 125",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.263173,
+          59.851488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838502353",
+        "name": "ВТБ, банкомат",
+        "address_name": "Народного Ополчения проспект, 6",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.281491,
+          59.852481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838590530",
+        "name": "СберБанк, банкомат",
+        "address_name": "бульвар Новаторов, 11 к2 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268566,
+          59.849478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838666026",
+        "name": "Русский Стандарт, банкомат",
+        "address_name": "Ленинский проспект, 138",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279098,
+          59.852287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001006557476",
+        "name": "Всероссийский банк развития регионов, банкомат",
+        "address_name": "Народного Ополчения проспект, 26 к3",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.270242,
+          59.836935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001007422919",
+        "name": "Кредит Европа банк, банкомат",
+        "address_name": "Ленинский проспект, 128 к2",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268247,
+          59.852899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001019146538",
+        "name": "Россия, банкомат",
+        "address_name": "бульвар Новаторов, 11 к2 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268637,
+          59.849477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001023684985",
+        "name": "Почта Банк, банкомат",
+        "address_name": "Ленинский проспект, 135 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.274888,
+          59.851505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001034990685",
+        "name": "Почта Банк, банкомат",
+        "address_name": "Народного Ополчения проспект, 101",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.270622,
+          59.838715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001036498128",
+        "name": "Московский кредитный банк, банкомат",
+        "address_name": "бульвар Новаторов, 8 лит А",
+        "rubrics": "Банкоматы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269204,
+          59.850182
+        ]
+      }
+    }
+  ]
+}

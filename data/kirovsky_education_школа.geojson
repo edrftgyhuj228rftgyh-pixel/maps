@@ -1,0 +1,965 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686019",
+        "name": "Средняя школа №379",
+        "address_name": "Канонерский остров, 32",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217664,
+          59.903711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838706557",
+        "name": "Лицей №384",
+        "address_name": "Стачек проспект, 5",
+        "rubrics": "Лицеи,Интересные здания"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2746,
+          59.897555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838711959",
+        "name": "Центр образования № 162",
+        "address_name": "Турбинная улица, 50",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265556,
+          59.887144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838715535",
+        "name": "Школа №565",
+        "address_name": "Ивана Черных, 11 лит А",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.278946,
+          59.899649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686237",
+        "name": "Средняя школа №608, школа им. героя Советского Союза Зины Портновой",
+        "address_name": "Промышленная улица, 18",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.268191,
+          59.897551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686047",
+        "name": "Средняя школа №388",
+        "address_name": "Огородный переулок, 9",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.27174,
+          59.885707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686026",
+        "name": "Средняя школа №381",
+        "address_name": "улица Зои Космодемьянской, 4",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.272262,
+          59.892896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838685902",
+        "name": "Средняя школа №377",
+        "address_name": "Стачек проспект, 107 к4",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.233695,
+          59.855704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686109",
+        "name": "Средняя школа №493",
+        "address_name": "улица Зины Портновой, 15",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.252497,
+          59.854595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838685528",
+        "name": "Гимназия №261",
+        "address_name": "Стачек проспект, 103 к2",
+        "rubrics": "Гимназии"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.242029,
+          59.857345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838685529",
+        "name": "Гимназия №261, начальная школа",
+        "address_name": "Ленинский проспект, 110 к3 лит А",
+        "rubrics": "Гимназии"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.232137,
+          59.854338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838685602",
+        "name": "Средняя школа №264",
+        "address_name": "улица Маршала Казакова, 3 к2",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.244838,
+          59.860743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838719898",
+        "name": "Средняя школа №264",
+        "address_name": "Морской Пехоты, 8 к3",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.246298,
+          59.861888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001028948208",
+        "name": "Взмах, частная школа",
+        "address_name": "Трамвайный проспект, 20",
+        "rubrics": "Школы,Помощь в обучении,Центры раннего развития детей,Курсы творчества для детей"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.270903,
+          59.854906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838706580",
+        "name": "Лицей №393",
+        "address_name": "Автовская улица, 5",
+        "rubrics": "Лицеи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.267858,
+          59.866609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838685662",
+        "name": "Школа Здоровья, средняя школа №269",
+        "address_name": "Трамвайный проспект, 22",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.274246,
+          59.854779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686035",
+        "name": "Средняя школа №386",
+        "address_name": "улица Зайцева, 14",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.267242,
+          59.873402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686056",
+        "name": "Центр экологического образования, лицей №389",
+        "address_name": "Кронштадтская улица, 7 лит А",
+        "rubrics": "Лицеи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.25553,
+          59.871211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686115",
+        "name": "Средняя школа №501, школа с углубленным изучением информатики и ИКТ",
+        "address_name": "Краснопутиловская улица, 22",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269802,
+          59.871883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838706046",
+        "name": "Гимназия №397",
+        "address_name": "улица Маршала Говорова, 9",
+        "rubrics": "Гимназии"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.266719,
+          59.877375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686270",
+        "name": "Средняя школа №658",
+        "address_name": "Трамвайный проспект, 22",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.274198,
+          59.854634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838718942",
+        "name": "Школа-интернат №2",
+        "address_name": "Трамвайный проспект, 24",
+        "rubrics": "Специальные школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.277625,
+          59.854878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838602555",
+        "name": "Дельта, частная школа",
+        "address_name": "Новостроек, 9",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26507,
+          59.875056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686102",
+        "name": "Средняя школа №481, с углубленным изучением немецкого языка",
+        "address_name": "Трамвайный проспект, 20",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.270939,
+          59.854645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838718603",
+        "name": "Школа №480",
+        "address_name": "Маринеско, 7",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.264127,
+          59.867904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838706581",
+        "name": "Лицей №393",
+        "address_name": "Краснопутиловская улица, 49",
+        "rubrics": "Лицеи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.271719,
+          59.866731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001020272559",
+        "name": "Средняя школа №501, школа с углубленным изучением информатики и ИКТ",
+        "address_name": "Новостроек, 26",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.272331,
+          59.874305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001091333042",
+        "name": "Учим Химию, школа",
+        "address_name": "улица Возрождения, 20",
+        "rubrics": "Помощь в обучении"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.271507,
+          59.882075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838685876",
+        "name": "Средняя школа №283",
+        "address_name": "Стойкости, 33 лит А",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.198838,
+          59.828718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686017",
+        "name": "Лицей №378",
+        "address_name": "проспект Ветеранов, 114 к2",
+        "rubrics": "Лицеи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.198864,
+          59.831723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001052617766",
+        "name": "Морошка, частная школа",
+        "address_name": "проспект Ветеранов, 114 к1",
+        "rubrics": "Школы,Детские лагеря,Центры раннего развития детей,Частные детские сады,Логопед"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.196125,
+          59.832517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838685118",
+        "name": "Средняя школа №254",
+        "address_name": "улица Бурцева, 9",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.204269,
+          59.835795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838682274",
+        "name": "Средняя школа №254",
+        "address_name": "улица Бурцева, 12 лит А",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.207334,
+          59.837078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686225",
+        "name": "Средняя школа №585",
+        "address_name": "Дачный проспект, 3 к2",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.239255,
+          59.848654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838682298",
+        "name": "Средняя школа №249",
+        "address_name": "проспект Ветеранов, 57 лит А",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.231944,
+          59.840214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001020656079",
+        "name": "Школа №277",
+        "address_name": "проспект Ветеранов, 39",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.239593,
+          59.843275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838682223",
+        "name": "Средняя школа №221",
+        "address_name": "улица Лёни Голикова, 15 к2",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.225658,
+          59.8449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838682284",
+        "name": "Лицей №244",
+        "address_name": "проспект Ветеранов, 80",
+        "rubrics": "Лицеи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.215691,
+          59.832105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838685861",
+        "name": "Средняя школа №282",
+        "address_name": "бульвар Новаторов, 104",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.252601,
+          59.839955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838706563",
+        "name": "Лицей №387",
+        "address_name": "улица Зины Портновой, 25 к2",
+        "rubrics": "Лицеи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.252306,
+          59.848422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686077",
+        "name": "Средняя школа №392, школа с углубленным изучением французского языка",
+        "address_name": "проспект Ветеранов, 87 к2",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.21963,
+          59.835737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686163",
+        "name": "Средняя школа №506, школа с углубленным изучением иностранных языков",
+        "address_name": "улица Козлова, 47 к1",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.227273,
+          59.828967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838682255",
+        "name": "Школа №223",
+        "address_name": "Стойкости, 17 к2",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.211154,
+          59.829807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838682322",
+        "name": "Средняя школа №250",
+        "address_name": "улица Козлова, 37 к1",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.224465,
+          59.831771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838682330",
+        "name": "Средняя школа №506, школа с углубленным изучением иностранных языков",
+        "address_name": "улица Солдата Корзуна, 15 к2 лит А",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.219478,
+          59.827202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686263",
+        "name": "Хореография, средняя школа №654 с углубленным изучением предметов художественно-эстетического цикла",
+        "address_name": "улица Лёни Голикова, 23 к6",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.224642,
+          59.842981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838718675",
+        "name": "Школа №502",
+        "address_name": "улица Лёни Голикова, 78",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.24559,
+          59.83761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552840952962",
+        "name": "Школа разговорных языков, частная школа",
+        "address_name": "проспект Ветеранов, 39",
+        "rubrics": "Школы,Языковые школы,Курсы робототехники"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.239698,
+          59.843391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001099822591",
+        "name": "Top, IT-школа",
+        "address_name": "улица Танкиста Хрустицкого, 9",
+        "rubrics": "Школы,Компьютерные курсы,Центры раннего развития детей,Центры дистанционного обучения,Курсы робототехники"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.249912,
+          59.838363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838685761",
+        "name": "Школа №277",
+        "address_name": "проспект Ветеранов, 14",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.256874,
+          59.844916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686200",
+        "name": "Средняя школа №539, с углубленным изучением иностранных языков",
+        "address_name": "улица Подводника Кузьмина, 52",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269476,
+          59.84218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838706036",
+        "name": "Гимназия №248",
+        "address_name": "Народного Ополчения проспект, 103",
+        "rubrics": "Гимназии"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.267661,
+          59.839967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686124",
+        "name": "Средняя школа №503",
+        "address_name": "Ленинский проспект, 123 к4",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.262043,
+          59.84972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686188",
+        "name": "Средняя школа №538, с углубленным изучением информационных технологий",
+        "address_name": "бульвар Новаторов, 40",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.275181,
+          59.846509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838685693",
+        "name": "Школа №274",
+        "address_name": "Дачный проспект, 34 к2",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.263136,
+          59.839589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686132",
+        "name": "Средняя школа №504, школа с углубленным изучением английского языка",
+        "address_name": "бульвар Новаторов, 43",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.264361,
+          59.846989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686213",
+        "name": "Средняя школа №551",
+        "address_name": "улица Танкиста Хрустицкого, 31",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255553,
+          59.834478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838685881",
+        "name": "Гимназия №284",
+        "address_name": "Народного Ополчения проспект, 135",
+        "rubrics": "Гимназии"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.260295,
+          59.835479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838686101",
+        "name": "Средняя школа №481, с углубленным изучением немецкого языка",
+        "address_name": "Ленинский проспект, 124 к2",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.262189,
+          59.853067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552840002673",
+        "name": "Средняя школа №504, начальная школа",
+        "address_name": "улица Зины Портновой, 56",
+        "rubrics": "Школы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258102,
+          59.848214
+        ]
+      }
+    }
+  ]
+}

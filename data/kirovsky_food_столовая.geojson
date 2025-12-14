@@ -1,0 +1,789 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001069064202",
+        "name": "Счастье есть, буфет",
+        "address_name": "Межевой канал, 5 лит АХ",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.249592,
+          59.911504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001023136421",
+        "name": "Время Есть, буфет",
+        "address_name": "Межевой канал, 3 к2",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.253756,
+          59.911042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001090757437",
+        "name": "Королева бензоколонки, столовая",
+        "address_name": null,
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.243994,
+          59.88581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001018937120",
+        "name": "Столовая",
+        "address_name": "улица Калинина, 13",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.252889,
+          59.897259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001075732838",
+        "name": "Мускат",
+        "address_name": "Двинская улица, 10 к3",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247598,
+          59.907658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001093759269",
+        "name": "Обедов, кафе",
+        "address_name": "Стачек проспект, 47 лит БЮ",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248747,
+          59.888924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001036980625",
+        "name": "Все обедают на кухне, кафе",
+        "address_name": "Двинская улица, 3",
+        "rubrics": "Столовые,Быстрое питание,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255765,
+          59.90923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001063086401",
+        "name": "Солнечный день, ресторан самообслуживания",
+        "address_name": "Промышленная улица, 38",
+        "rubrics": "Столовые,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.259185,
+          59.896277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001097020424",
+        "name": "Сканди",
+        "address_name": "улица Маршала Говорова, 52",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.288797,
+          59.901916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001032232289",
+        "name": "Ленинград, столовая",
+        "address_name": "Стачек проспект, 16",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279274,
+          59.895807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001104912804",
+        "name": "Порт Бистро",
+        "address_name": "улица Трефолева, 2 лит БН",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.280919,
+          59.886479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001102838096",
+        "name": "Bazar coffee, столовая",
+        "address_name": "улица Маршала Говорова, 35 к5",
+        "rubrics": "Столовые,Доставка еды,Кофейни"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.281014,
+          59.888301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841490307",
+        "name": "Посиделки, кафе-столовая",
+        "address_name": "Стачек проспект, 37",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.267949,
+          59.888347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001017237825",
+        "name": "Наша столовая",
+        "address_name": "Промышленная улица, 22",
+        "rubrics": "Столовые,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265256,
+          59.897595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001036676472",
+        "name": "Столовая",
+        "address_name": "Промышленная улица, 21 ст1",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.25801,
+          59.896599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001063161960",
+        "name": "Уни, кафе",
+        "address_name": "Ивана Черных, 4",
+        "rubrics": "Столовые,Быстрое питание"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.277009,
+          59.901426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001102838099",
+        "name": "Davego, столовая",
+        "address_name": "улица Маршала Говорова, 35 к4",
+        "rubrics": "Столовые,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279533,
+          59.889103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001033885540",
+        "name": "Точно вкусно, кафе-столовая",
+        "address_name": "Ивана Черных, 31-33 лит Б",
+        "rubrics": "Столовые,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.285283,
+          59.902018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001076136031",
+        "name": "Кафе",
+        "address_name": "Оборонная улица, 10",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.267392,
+          59.893809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841532676",
+        "name": "Столовая",
+        "address_name": "Химический переулок, 10",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.28951,
+          59.890745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001023980436",
+        "name": "Столовая",
+        "address_name": "Межевой канал, 2",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258704,
+          59.910647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001036423805",
+        "name": "Столовая",
+        "address_name": "улица Швецова, 41 к1",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.290613,
+          59.897482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001051715033",
+        "name": "Кухня, кафе-столовая",
+        "address_name": "улица Маршала Говорова, 43",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.289398,
+          59.897915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001059190042",
+        "name": "StartUp, кафе-столовая",
+        "address_name": "Промышленная улица, 38 к2",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.258669,
+          59.89611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001095259819",
+        "name": "Обедов, столовая",
+        "address_name": "Стачек проспект, 47 лит БН",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247139,
+          59.879353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841577727",
+        "name": "Столовая",
+        "address_name": "дорога на Турухтанные острова, 14 к4",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.23632,
+          59.868075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001023295213",
+        "name": "Столовая",
+        "address_name": "улица Ивана Зубкова, 6 ст1",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.25177,
+          59.866542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001036669106",
+        "name": "Столовая",
+        "address_name": "дорога на Турухтанные острова, 12 лит А",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.246329,
+          59.867449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001045345964",
+        "name": "Столосеть, столовая",
+        "address_name": "Стачек проспект, 47 ст64",
+        "rubrics": "Столовые,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247679,
+          59.877113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001062938904",
+        "name": "Обедов, кафе",
+        "address_name": "Стачек проспект, 47 лит Б",
+        "rubrics": "Столовые,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.242493,
+          59.880713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001095257860",
+        "name": "Империя вкуса",
+        "address_name": "дорога на Турухтанные острова, 14 к4",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.23632,
+          59.868075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001071484995",
+        "name": "Пельмешъ, столовая",
+        "address_name": "улица Васи Алексеева, 4 ст1",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.264264,
+          59.879923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001044674318",
+        "name": "Буфет А72, ресторан быстрого питания",
+        "address_name": "Стачек проспект, 72",
+        "rubrics": "Столовые,Доставка еды,Бары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26384,
+          59.879213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001055330108",
+        "name": "Нектар, кафе-столовая",
+        "address_name": "Стачек проспект, 47 лит А",
+        "rubrics": "Столовые,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.256445,
+          59.878575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001061527680",
+        "name": "Сдобная столовая",
+        "address_name": "Краснопутиловская улица, 67",
+        "rubrics": "Столовые,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.28596,
+          59.861224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841132963",
+        "name": "Олмари, кафе-столовая",
+        "address_name": "улица Маршала Говорова, 29",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.274634,
+          59.88549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001020887028",
+        "name": "Столовая",
+        "address_name": "Трамвайный проспект, 14",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26496,
+          59.855128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001019043158",
+        "name": "Столовая",
+        "address_name": "улица Трефолева, 2 лит Р",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.27968,
+          59.885181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001019639837",
+        "name": "Кафе-бистро",
+        "address_name": "Кронштадтская улица, 10 лит А",
+        "rubrics": "Столовые,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255199,
+          59.87409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001060453134",
+        "name": "Homefood, кафе-столовая",
+        "address_name": "улица Возрождения, 21",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.275022,
+          59.880191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001101058335",
+        "name": "К вашему столу, столовая",
+        "address_name": "Краснопутиловская улица, 69",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.287282,
+          59.860341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841701553",
+        "name": "Столовая",
+        "address_name": "улица Генерала Симоняка, 9",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.203548,
+          59.83047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001099345887",
+        "name": "У Любани, кафе",
+        "address_name": "Народного Ополчения проспект, 201",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.190683,
+          59.824005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001067564469",
+        "name": "Вкус востока, столовая",
+        "address_name": "бульвар Новаторов, 98а",
+        "rubrics": "Столовые,Быстрое питание,Доставка еды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.252919,
+          59.841437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839075205",
+        "name": "Витамин, кафе",
+        "address_name": "Ленинский проспект, 101 лит Ж",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.230368,
+          59.851103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001037558495",
+        "name": "Кафе",
+        "address_name": "улица Зины Портновой, 21 к4",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.25118,
+          59.849559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001052391668",
+        "name": "От ложки до поварёшки, столовая",
+        "address_name": "Народного Ополчения проспект, 6",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.281817,
+          59.852751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001096452275",
+        "name": "Розмарин, кафе",
+        "address_name": "Ленинский проспект, 140 лит Е",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.283433,
+          59.853987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001029003778",
+        "name": "El Bistro, столовая",
+        "address_name": "Народного Ополчения проспект, 22",
+        "rubrics": "Столовые"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.280099,
+          59.844617
+        ]
+      }
+    }
+  ]
+}

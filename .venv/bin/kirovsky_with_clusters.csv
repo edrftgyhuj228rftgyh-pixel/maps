@@ -1,0 +1,29 @@
+import pandas as pd
+
+df = pd.read_csv("kirovsky_data_with_clusters.csv")
+
+# 1. Размеры кластеров
+print("Общее число объектов:", len(df))
+print(df["cluster"].value_counts().sort_index())
+
+# 2. Доля шума
+noise_share = (df["cluster"] == -1).mean()
+print(f"Доля шума (cluster = -1): {noise_share:.2%}")
+
+# 3. ТОП-рубрик по каждому кластеру
+if "rubric_name" in df.columns:
+    cluster_rubrics = (
+        df.groupby(["cluster", "rubric_name"])
+          .size()
+          .reset_index(name="count")
+    )
+
+    # ТОП-10 рубрик по каждому кластеру
+    for cl in sorted(df["cluster"].unique()):
+        print("\n=== Кластер", cl, "===")
+        top = (
+            cluster_rubrics[cluster_rubrics["cluster"] == cl]
+            .sort_values("count", ascending=False)
+            .head(10)
+        )
+        print(top.to_string(index=False))

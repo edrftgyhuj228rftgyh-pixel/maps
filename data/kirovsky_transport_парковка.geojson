@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552840603081",
+        "name": "Автостоянка, гаражно-строительный кооператив Канонерский",
+        "address_name": "Канонерский остров, 6Б",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.212785,
+          59.896507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838738411",
+        "name": "Автостоянка",
+        "address_name": "улица Маршала Говорова, 52а",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.286898,
+          59.900472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001065734525",
+        "name": "Стрела, автостоянка",
+        "address_name": "улица Доблести, 2 лит А",
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.186395,
+          59.867721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001065756993",
+        "name": "Автостоянка",
+        "address_name": null,
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.182518,
+          59.867961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001080137808",
+        "name": "EuroParking, городская парковка",
+        "address_name": null,
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.189147,
+          59.869554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838737094",
+        "name": "Автостоянка",
+        "address_name": "дорога В Угольную гавань, 1 к1",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.228136,
+          59.864591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001089357859",
+        "name": "Паркинг ТРК Континент",
+        "address_name": "Стачек проспект, 99 лит А",
+        "rubrics": "Паркинги"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247665,
+          59.85804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841793555",
+        "name": "Автостоянка",
+        "address_name": "проспект Маршала Жукова, 2",
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.24508,
+          59.863612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001054047482",
+        "name": "Люксор, стоянка для грузовых автомобилей",
+        "address_name": "Портовая улица, 14",
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.247259,
+          59.865124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838553682",
+        "name": "Вояджер, автостоянка",
+        "address_name": "Морской Пехоты, 9",
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.241642,
+          59.863199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001055921764",
+        "name": "Коммерческая грузовая автостоянка",
+        "address_name": "Элеваторная площадка, 1в",
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.224107,
+          59.864639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001057679652",
+        "name": "Технопарк, грузовая автостоянка",
+        "address_name": null,
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.250182,
+          59.869577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001092816044",
+        "name": "Автостоянка",
+        "address_name": null,
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.245555,
+          59.867384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001105081677",
+        "name": "Август, автостоянка",
+        "address_name": null,
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.251918,
+          59.869905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838722172",
+        "name": "Нупек, крытая автостоянка",
+        "address_name": "дорога на Турухтанные острова, 3",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255279,
+          59.870266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001007483338",
+        "name": "Кировский завод, перехватывающая автостоянка",
+        "address_name": null,
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261426,
+          59.880928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001089358383",
+        "name": "Паркинг ТЦ Forum",
+        "address_name": "улица Васи Алексеева, 4 ст1",
+        "rubrics": "Паркинги"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.264881,
+          59.880193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838738230",
+        "name": "Автостоянка",
+        "address_name": "Стачек проспект, 51",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.257681,
+          59.878039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001048225096",
+        "name": "Кадр, автостоянка",
+        "address_name": "Автовская улица, 1 к2",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.266081,
+          59.866167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838940013",
+        "name": "Автостоянка, г. Санкт-Петербург",
+        "address_name": "улица Примакова, 24а",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279252,
+          59.868429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001034039788",
+        "name": "Парковка ТРК Румба",
+        "address_name": "улица Васи Алексеева, 6",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265629,
+          59.880356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001101339835",
+        "name": "Паркинг БЦ Энигма",
+        "address_name": "Кронштадтская улица, 10 лит А",
+        "rubrics": "Паркинги"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2559,
+          59.874442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838622529",
+        "name": "Автостоянка",
+        "address_name": "улица Червонного Казачества, 3",
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.267569,
+          59.864418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001026818399",
+        "name": "Паркинг",
+        "address_name": "проспект Маршала Жукова, 76 к1",
+        "rubrics": "Паркинги"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.189873,
+          59.827408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838737145",
+        "name": "Pit-stop, автостоянка",
+        "address_name": "Народного Ополчения проспект, 199а",
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.193622,
+          59.823619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001084299331",
+        "name": "Punkt E, станция зарядки электромобилей",
+        "address_name": null,
+        "rubrics": "Станции зарядки электромобилей"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.195033,
+          59.832455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001068932229",
+        "name": "Проспект Ветеранов, перехватывающая автостоянка",
+        "address_name": null,
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.253626,
+          59.842417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552839018768",
+        "name": "Инпредсервис, автостоянка",
+        "address_name": "Ленинский проспект, 115а",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248661,
+          59.851007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838671207",
+        "name": "Автостоянка",
+        "address_name": null,
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.228279,
+          59.825892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838671210",
+        "name": "Автостоянка",
+        "address_name": "улица Лёни Голикова, 108Б",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.249148,
+          59.83302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348553838737233",
+        "name": "Балтик Авто, автостоянка",
+        "address_name": "Народного Ополчения проспект, 46Б",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.214043,
+          59.824339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001018167557",
+        "name": "Омега, автостоянка",
+        "address_name": null,
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.221525,
+          59.831723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001023492787",
+        "name": "Автостоянка",
+        "address_name": "проспект Маршала Жукова, 40а",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.219609,
+          59.849507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001089784149",
+        "name": "Абсолют, паркинг",
+        "address_name": "улица Бурцева, 23 лит А",
+        "rubrics": "Паркинги"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.214188,
+          59.835409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841670671",
+        "name": "Автостоянка",
+        "address_name": "улица Бурцева, 21а",
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.20989,
+          59.836098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001089162538",
+        "name": "Автостоянка",
+        "address_name": null,
+        "rubrics": "Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.231122,
+          59.842687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001053567108",
+        "name": "Антера, паркинг",
+        "address_name": "Народного Ополчения проспект, 10 лит Б",
+        "rubrics": "Паркинги"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.282924,
+          59.848971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552841045966",
+        "name": "Ленинский проспект, перехватывающая автостоянка",
+        "address_name": "Народного Ополчения проспект, 16а",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.280858,
+          59.84856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552838743138",
+        "name": "Эльчино, автостоянка",
+        "address_name": "Народного Ополчения проспект, 20 к2",
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.280854,
+          59.846494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001055912561",
+        "name": "Автостоянка",
+        "address_name": null,
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.281393,
+          59.853246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001055916505",
+        "name": "Автостоянка",
+        "address_name": null,
+        "rubrics": "Паркинги,Автостоянки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.281898,
+          59.852174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001109643219",
+        "name": "Паркинг",
+        "address_name": "Народного Ополчения проспект, 10",
+        "rubrics": "Паркинги"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.282314,
+          59.849081
+        ]
+      }
+    }
+  ]
+}

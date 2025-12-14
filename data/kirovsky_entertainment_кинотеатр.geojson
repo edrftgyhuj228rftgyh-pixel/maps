@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5348552840646777",
+        "name": "Каро 7, кинотеатр",
+        "address_name": "Стачек проспект, 99",
+        "rubrics": "Кинотеатры"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.249638,
+          59.859081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001007170734",
+        "name": "Kinopolis, кинотеатр",
+        "address_name": "улица Васи Алексеева, 6",
+        "rubrics": "Кинотеатры"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265712,
+          59.879951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70000001064316729",
+        "name": "Ульянка, кинотеатр",
+        "address_name": "проспект Ветеранов, 101",
+        "rubrics": "Кинотеатры"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.204331,
+          59.834242
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1640 @@
+rubric_id,rubric_name,rubric_alias,parent_id
+5419,Аварийные / справочные / экстренные службы,avarijjnye_spravochnye_ehkstrennye_sluzhby,
+16182,Аварийные комиссары,avarijjnye_komissary,5419
+122,Аварийные службы,avarijjnye_sluzhby,5419
+59508,Ликвидация нефтеразливов,likvidaciya_nefterazlivov,5419
+112854,Номера экстренных служб,nomera_ehkstrennykh_sluzhb,5419
+143,Пожарная охрана,pozharnaya_okhrana,5419
+227,Скорая помощь,skoraya_pomoshh,5419
+1644,Службы спасения,sluzhby_spaseniya,5419
+151,Справочные,spravochnye,5419
+717,Телефоны доверия,telefony_doveriya,5419
+707,Управление ГО и ЧС,upravlenie_go_i_chs,5419
+18305,Штрафстоянки,shtrafstoyanki,5419
+9867,Эвакуатор,ehvakuator,5419
+42903,Автосервис / Автотовары,avtoservis_avtotovary,
+425,Автоаксессуары,avtoaksessuary,42903
+404,Автозвук,avtozvuk,42903
+524,Автомобильные аккумуляторы,avtomobilnye_akkumulyatory,42903
+405,Автомойки,avtomojjki,42903
+406,Авторазбор,avtorazbor,42903
+110822,Автосервис самообслуживания,avtoservis_samoobsluzhivaniya,42903
+408,Автосигнализации,avtosignalizacii,42903
+677,Автостекло,avtosteklo,42903
+409,Автостоянки,avtostoyanki,42903
+426,Автохимия,avtokhimiya,42903
+645,Автоэмали,avtoehmali,42903
+410,Антикоррозийная обработка авто,antikorrozijjnaya_obrabotka_avto,42903
+24814,Аэрография на транспорте,aehrografiya_na_transporte,42903
+110316,Выездной автосервис,vyezdnojj_avtoservis,42903
+437,Газовое оборудование для авто,gazovoe_oborudovanie_dlya_avto,42903
+20989,Грузовой автосервис,gruzovojj_avtoservis,42903
+110301,Детейлинг,detejjling,42903
+7900,Замена масла,zamena_masla,42903
+18547,Заправочные станции,zapravochnye_stancii,42903
+1141,Запчасти для грузовых авто,zapchasti_dlya_gruzovykh_avto,42903
+430,Запчасти для иномарок,zapchasti_dlya_inomarok,42903
+110302,Запчасти для мототехники,zapchasti_dlya_mototekhniki,42903
+13161,Запчасти для общественного транспорта,zapchasti_dlya_obshhestvennogo_transporta,42903
+1140,Запчасти для отечественных авто,zapchasti_dlya_otechestvennykh_avto,42903
+8466,Запчасти для спецтехники,zapchasti_dlya_spectekhniki,42903
+3237,Запчасти к сельхозтехнике,zapchasti_k_selkhoztekhnike,42903
+111508,Изоляционные материалы для авто,izolyacionnye_materialy_dlya_avto,42903
+110362,Компьютерная диагностика автомобилей,kompyuternaya_diagnostika_avtomobilejj,42903
+525,Контрактные автозапчасти,kontraktnye_avtozapchasti,42903
+7693,Кузовной ремонт,kuzovnojj_remont,42903
+9041,Легковой автосервис,legkovojj_avtoservis,42903
+112463,Мобильные АЗС,mobilnye_azs,42903
+7697,Обслуживание автомобильных климатических систем,obsluzhivanie_avtomobilnykh_klimaticheskikh_sistem,42903
+112667,Онлайн-заправки 2ГИС,onlajjn_zapravki_2gis,42903
+56428,Отогрев автомобилей,otogrev_avtomobilejj,42903
+60340,Паркинги,parkingi,42903
+112597,Паркоматы,parkomaty,42903
+110366,Переоборудование автомобилей,pereoborudovanie_avtomobilejj,42903
+70164,Пошив автоковров,poshiv_avtokovrov,42903
+112897,Пошив авточехлов,poshiv_avtochekhlov,42903
+110517,Предпусковые подогреватели двигателя,predpuskovye_podogrevateli_dvigatelya,42903
+110482,Прицепы,pricepy,42903
+112778,Продажа станций зарядки для электроавтомобилей,prodazha_stancijj_zaryadki_dlya_ehlektroavtomobilejj,42903
+4532,Пункты техосмотра,punkty_tekhosmotra,42903
+7690,Развал-схождение,razval_skhozhdenie,42903
+112802,Резка и ремонт автозеркал,rezka_i_remont_avtozerkal,42903
+110364,Ремонт автобусов,remont_avtobusov,42903
+412,Ремонт АКПП,remont_akpp,42903
+7695,Ремонт бензиновых двигателей,remont_benzinovykh_dvigatelejj,42903
+52408,Ремонт выхлопных систем,remont_vykhlopnykh_sistem,42903
+111509,Ремонт гибридных автомобилей,remont_gibridnykh_avtomobilejj,42903
+16648,Ремонт дизельной топливной системы,remont_dizelnojj_toplivnojj_sistemy,42903
+7694,Ремонт дизельных двигателей,remont_dizelnykh_dvigatelejj,42903
+7699,Ремонт инжекторов,remont_inzhektorov,42903
+18630,Ремонт и тюнинг мототехники,remont_i_tyuning_mototekhniki,42903
+112895,Ремонт карбюраторов,remont_karbyuratorov,42903
+112635,Ремонт карданных валов,remont_kardannykh_valov,42903
+110363,Ремонт МКПП,remont_mkpp,42903
+112819,Ремонт подушек безопасности,remont_podushek_bezopasnosti,42903
+112604,Ремонт рефрижераторов,remont_refrizheratorov,42903
+112546,Ремонт рулевых реек,remont_rulevykh_reek,42903
+7757,Ремонт спецтехники,remont_spectekhniki,42903
+7692,Ремонт стартеров и генераторов,remont_starterov_i_generatorov,42903
+112616,Ремонт турбин,remont_turbin,42903
+7691,Ремонт ходовой части автомобиля,remont_khodovojj_chasti_avtomobilya,42903
+112779,Ремонт электроавтомобилей,remont_ehlektroavtomobilejj,42903
+10412,Ремонт электронных систем авто,remont_ehlektronnykh_sistem_avto,42903
+112879,Русификация,rusifikaciya,42903
+57364,Светоотражающие изделия,svetootrazhayushhie_izdeliya,42903
+433,Спецавтооборудование,specavtooborudovanie,42903
+110320,Станции зарядки электромобилей,stancii_zaryadki_ehlektromobilejj,42903
+110372,Тахографы,takhografy,42903
+413,Тонирование автостёкол,tonirovanie_avtostjokol,42903
+47338,Тонировочные и защитные плёнки для авто,tonirovochnye_i_zashhitnye_pljonki_dlya_avto,42903
+54458,Топливные карты,toplivnye_karty,42903
+414,Тюнинг,tyuning,42903
+112784,Ультразвуковая мойка деталей,ultrazvukovaya_mojjka_detalejj,42903
+110365,Установка и ремонт автооптики,ustanovka_i_remont_avtooptiki,42903
+10792,Установка и ремонт автостёкол,ustanovka_i_remont_avtostjokol,42903
+22829,Хранение шин,khranenie_shin,42903
+7689,Шиномонтаж,shinomontazh,42903
+427,Шины и диски,shiny_i_diski,42903
+1,Город / Власть,gorod_vlast,
+50535,Администрации поселений,administracii_poselenijj,1
+116,Администрации районов / округов городской власти,administracii_rajjonov_okrugov_gorodskojj_vlasti,1
+50642,Администрации районов / округов региональной власти,administracii_rajjonov_okrugov_regionalnojj_vlasti,1
+70514,Администрация города / городского округа,administraciya_goroda_gorodskogo_okruga,1
+112542,Благотворительные контейнеры,blagotvoritelnye_kontejjnery,1
+494,Благотворительные фонды,blagotvoritelnye_fondy,1
+136,Военкоматы,voenkomaty,1
+539,Военная комендатура,voennaya_komendatura,1
+9949,ГАИ,gai,1
+251,Гидрометеослужба,gidrometeosluzhba,1
+51213,ГОРПО / РАЙПО,gorpo_rajjpo,1
+18539,Государственные архивы,gosudarstvennye_arkhivy,1
+733,Гранты,granty,1
+236,Детские дома,detskie_doma,1
+681,Дома престарелых,doma_prestarelykh,1
+238,Дома ребёнка,doma_rebjonka,1
+138,ЗАГСы,zagsy,1
+121,Законодательная власть,zakonodatelnaya_vlast,1
+51352,Избирательные комиссии,izbiratelnye_komissii,1
+24352,Изоляторы временного содержания,izolyatory_vremennogo_soderzhaniya,1
+131,Инспекции,inspekcii,1
+140,Исправительные учреждения,ispravitelnye_uchrezhdeniya,1
+112525,Кризисные центры,krizisnye_centry,1
+112800,Международные пункты пропуска,mezhdunarodnye_punkty_propuska,1
+110526,Молочные кухни,molochnye_kukhni,1
+53505,МФЦ,mfc,1
+132,Налоговые инспекции,nalogovye_inspekcii,1
+51351,Народные дружины,narodnye_druzhiny,1
+54050,Нотариальные палаты,notarialnye_palaty,1
+51349,Ночлежные дома,nochlezhnye_doma,1
+110878,Общественные группы,obshhestvennye_gruppy,1
+250,Общественные организации,obshhestvennye_organizacii,1
+50348,Общественные пункты охраны порядка,obshhestvennye_punkty_okhrany_poryadka,1
+51249,ОМВД / УМВД / ГУМВД / МВД,omvd_umvd_gumvd_mvd,1
+110428,Операторы платных дорог,operatory_platnykh_dorog,1
+252,Организации природоохраны,organizacii_prirodookhrany,1
+133,Органы государственного надзора,organy_gosudarstvennogo_nadzora,1
+51246,Отделения полиции,otdeleniya_policii,1
+732,Отделы ветеринарно-санитарного контроля,otdely_veterinarno_sanitarnogo_kontrolya,1
+253,Политические партии,politicheskie_partii,1
+129,Посольства / Консульства,posolstva_konsulstva,1
+71183,Правительство,pravitelstvo,1
+111007,Представительная власть,predstavitelnaya_vlast,1
+24717,Представительства субъектов РФ,predstavitelstva_subektov_rf,1
+24689,Приёмные депутатов,prijomnye_deputatov,1
+59510,Приёмные Уполномоченных по правам человека,prijomnye_upolnomochennykh_po_pravam_cheloveka,1
+144,Прокуратура,prokuratura,1
+15323,Следственный комитет,sledstvennyjj_komitet,1
+327,Службы занятости,sluzhby_zanyatosti,1
+110424,Службы мелиорации земель,sluzhby_melioracii_zemel,1
+520,Социальные службы,socialnye_sluzhby,1
+154,Судебная и внесудебная экспертиза,sudebnaya_i_vnesudebnaya_ehkspertiza,1
+146,Судебные приставы,sudebnye_pristavy,1
+153,Суды,sudy,1
+147,Таможня,tamozhnya,1
+8463,Управления по вопросам миграции МВД РФ,upravleniya_po_voprosam_migracii_mvd_rf,1
+53244,Участковые пункты полиции,uchastkovye_punkty_policii,1
+927,Федеральные казначейства,federalnye_kaznachejjstva,1
+120,Федеральные службы,federalnye_sluzhby,1
+10791,Фонд обязательного медицинского страхования,fond_obyazatelnogo_medicinskogo_strakhovaniya,1
+112791,Фонды пенсионного и социального страхования,fondy_pensionnogo_i_socialnogo_strakhovaniya,1
+112433,Центры поддержки МСП,centry_podderzhki_msp,1
+113463,Центры социальной реабилитации,centry_socialnojj_reabilitacii,1
+2,Досуг / Развлечения / Общественное питание,dosug_razvlecheniya_obshhestvennoe_pitanie,
+112455,Авиатренажёры,aviatrenazhjory,2
+113336,Автоматы фотопечати,avtomaty_fotopechati,2
+537,Аквапарки,akvaparki,2
+11648,Акватеррариум,akvaterrarium,2
+72370,Антикафе,antikafe,2
+110305,Аренда беседок,arenda_besedok,2
+112792,Аренда детских лофтов,arenda_detskikh_loftov,2
+110373,Аренда мебели для мероприятий,arenda_mebeli_dlya_meropriyatijj,2
+110308,Аренда шатров и конструкций,arenda_shatrov_i_konstrukcijj,2
+110358,Аттракционы,attrakciony,2
+100772,Аэродинамические комплексы,aehrodinamicheskie_kompleksy,2
+110384,Аэросъёмка,aehrosjomka,2
+946,Бани и сауны,bani_i_sauny,2
+10803,Банкетные залы,banketnye_zaly,2
+159,Бары,bary,2
+21497,Билеты на мероприятия,bilety_na_meropriyatiya,2
+169,Бильярдные залы,bilyardnye_zaly,2
+24169,Ботанический сад,botanicheskijj_sad,2
+170,Боулинг,bouling,2
+171,Букмекеры,bukmekery,2
+165,Быстрое питание,bystroe_pitanie,2
+110304,Верёвочные парки,verjovochnye_parki,2
+24099,Выставка насекомых,vystavka_nasekomykh,2
+8151,Дайвинг-клубы,dajjving_kluby,2
+16743,Детские игровые залы,detskie_igrovye_zaly,2
+113330,Детские развлекательные автоматы,detskie_razvlekatelnye_avtomaty,2
+13787,Дома культуры,doma_kultury,2
+1203,Доставка еды,dostavka_edy,2
+113573,Зоокафе,zookafe,2
+167,Зоопарк,zoopark,2
+112609,Караоке-боксы,karaoke_boksy,2
+21387,Караоке-залы,karaoke_zaly,2
+161,Кафе,kafe,2
+112658,Кафе-кондитерские,kafe_konditerskie,2
+110300,Квесты,kvesty,2
+112464,Квизы,kvizy,2
+9786,Кейтеринг,kejjtering,2
+102044,Киноаттракционы,kinoattrakciony,2
+192,Кинотеатры,kinoteatry,2
+110430,Клубы видеоигр,kluby_videoigr,2
+112550,Клубы настольных игр,kluby_nastolnykh_igr,2
+67763,Комбинаты питания,kombinaty_pitaniya,2
+51001,Концертные залы,koncertnye_zaly,2
+162,Кофейни,kofejjni,2
+112719,Кофейные автоматы,kofejjnye_avtomaty,2
+16677,Кулинарии,kulinarii,2
+14967,Культурно-досуговые центры,kulturno_dosugovye_centry,2
+112394,Курсы робототехники,kursy_robototekhniki,2
+13789,Курсы творчества для детей,kursy_tvorchestva_dlya_detejj,2
+112619,Лектории,lektorii,2
+24504,Лотерейные билеты,loterejjnye_bilety,2
+110345,Научно-развлекательные центры,nauchno_razvlekatelnye_centry,2
+173,Ночные клубы,nochnye_kluby,2
+15800,Океанариум,okeanarium,2
+630,Организация праздников,organizaciya_prazdnikov,2
+110448,Организация спортивных мероприятий,organizaciya_sportivnykh_meropriyatijj,2
+168,Парки,parki,2
+110821,Парки динозавров,parki_dinozavrov,2
+110388,Парки для водных видов спорта,parki_dlya_vodnykh_vidov_sporta,2
+111594,Пекарни,pekarni,2
+174,Пиротехника,pirotekhnika,2
+51459,Пиццерии,piccerii,2
+24353,Пляжи,plyazhi,2
+112601,Прокат игровых приставок,prokat_igrovykh_pristavok,2
+113337,Прокат настольных игр,prokat_nastolnykh_igr,2
+112651,Резиденции Деда Мороза,rezidencii_deda_moroza,2
+164,Рестораны,restorany,2
+110335,Роллердромы,rollerdromy,2
+52248,Рюмочные,ryumochnye,2
+110745,Скейт-парки,skejjt_parki,2
+111526,Смотровые площадки,smotrovye_ploshhadki,2
+808,Спортивно-тактические клубы,sportivno_takticheskie_kluby,2
+112617,Стендап-клубы,stendap_kluby,2
+166,Столовые,stolovye,2
+6505,Стрелковые клубы,strelkovye_kluby,2
+110530,Стриптиз-клубы,striptiz_kluby,2
+15791,Суши-бары,sushi_bary,2
+55875,Сценические декорации и бутафория,scenicheskie_dekoracii_i_butaforiya,2
+15707,Творческие коллективы,tvorcheskie_kollektivy,2
+7332,"Театральные, концертные мероприятия",teatralnye_koncertnye_meropriyatiya,2
+112656,Точки безалкогольных напитков,tochki_bezalkogolnykh_napitkov,2
+58871,Точки кофе,tochki_kofe,2
+111573,Услуги Деда Мороза,uslugi_deda_moroza,2
+9220,Услуги праздничного оформления,uslugi_prazdnichnogo_oformleniya,2
+110391,Фотокабины,fotokabiny,2
+113121,Фото радужки глаза,foto_raduzhki_glaza,2
+22379,Фотосъёмка,fotosjomka,2
+111593,Фудмоллы,fudmolly,2
+112595,Хаски-центры,khaski_centry,2
+112442,Центры виртуальной реальности,centry_virtualnojj_realnosti,2
+110357,Центры паровых коктейлей,centry_parovykh_koktejjlejj,2
+685,Цирк,cirk,2
+110317,Чайные клубы,chajjnye_kluby,2
+9281,Экскурсии по городу,ehkskursii_po_gorodu,2
+19532,Интернет / Связь / Информационные технологии,internet_svyaz_informacionnye_tekhnologii,
+646,IP-телефония,ip_telefoniya,19532
+112937,IT-компании,it_kompanii,19532
+527,Автоматизация бизнес-процессов,avtomatizaciya_biznes_processov,19532
+53136,Автоматизация медицинских учреждений,avtomatizaciya_medicinskikh_uchrezhdenijj,19532
+110511,Автоматизация обучения,avtomatizaciya_obucheniya,19532
+104043,Автоматизация предприятий общепита,avtomatizaciya_predpriyatijj_obshhepita,19532
+328,Автоматизация производства,avtomatizaciya_proizvodstva,19532
+1235,Автоматизация торговли,avtomatizaciya_torgovli,19532
+644,Аксессуары к телефонам,aksessuary_k_telefonam,19532
+435,Антенны,antenny,19532
+186,Бухгалтерские программы,bukhgalterskie_programmy,19532
+52115,Государственные сайты,gosudarstvennye_sajjty,19532
+110409,Дата-центры,data_centry,19532
+110394,Запчасти к телефонам,zapchasti_k_telefonam,19532
+176,Интернет-провайдеры,internet_provajjdery,19532
+187,Информационная безопасность,informacionnaya_bezopasnost,19532
+5840,Информационные сервисы,informacionnye_servisy,19532
+10534,Кабельное телевидение,kabelnoe_televidenie,19532
+4385,Коммутационное оборудование,kommutacionnoe_oborudovanie,19532
+178,Компьютерные клубы,kompyuternye_kluby,19532
+337,Мобильные операторы,mobilnye_operatory,19532
+112431,Мобильные приложения,mobilnye_prilozheniya,19532
+643,Мобильные телефоны,mobilnye_telefony,19532
+3218,Монтаж телефонных сетей,montazh_telefonnykh_setejj,19532
+7662,Навигационное оборудование,navigacionnoe_oborudovanie,19532
+112637,Онлайн-кинотеатры,onlajjn_kinoteatry,19532
+110978,Операторы фискальных данных,operatory_fiskalnykh_dannykh,19532
+519,Офисные АТС,ofisnye_ats,19532
+51205,Платёжные системы интернета,platjozhnye_sistemy_interneta,19532
+50998,Поисковые интернет-системы,poiskovye_internet_sistemy,19532
+110947,Помощь в подключении услуг связи,pomoshh_v_podklyuchenii_uslug_svyazi,19532
+335,Почта,pochta,19532
+4456,Правовые программы,pravovye_programmy,19532
+188,Программное обеспечение,programmnoe_obespechenie,19532
+175,Разработка и продвижение сайтов,razrabotka_i_prodvizhenie_sajjtov,19532
+51385,Разработка компьютерных игр,razrabotka_kompyuternykh_igr,19532
+51755,Разработка мобильных приложений,razrabotka_mobilnykh_prilozhenijj,19532
+112624,Разработка программного обеспечения,razrabotka_programmnogo_obespecheniya,19532
+667,Ремонт телефонов,remont_telefonov,19532
+25190,Сайты объявлений,sajjty_obyavlenijj,19532
+8195,Сервис антенного оборудования,servis_antennogo_oborudovaniya,19532
+15616,Системы мониторинга транспорта,sistemy_monitoringa_transporta,19532
+110399,Совместные покупки,sovmestnye_pokupki,19532
+110382,Создание виртуальных туров,sozdanie_virtualnykh_turov,19532
+1098,Спутниковая связь,sputnikovaya_svyaz,19532
+640,Средства радиосвязи,sredstva_radiosvyazi,19532
+111001,Станции зарядки телефонов,stancii_zaryadki_telefonov,19532
+387,Стационарные телефоны,stacionarnye_telefony,19532
+706,Строительство объектов связи,stroitelstvo_obektov_svyazi,19532
+179,Услуги телефонной связи,uslugi_telefonnojj_svyazi,19532
+5750,Хостинг,khosting,19532
+50372,Электронные подписи,ehlektronnye_podpisi,19532
+10,Коммунальные / бытовые / ритуальные услуги,kommunalnye_bytovye_ritualnye_uslugi,
+300,Ателье меха и кожи,atele_mekha_i_kozhi,10
+112457,Благоустройство мест захоронений,blagoustrojjstvo_mest_zakhoronenijj,10
+123,Благоустройство улиц,blagoustrojjstvo_ulic,10
+113328,Водоснабжение,vodosnabzhenie,10
+73893,Вывоз мусора,vyvoz_musora,10
+14376,Вывоз снега,vyvoz_snega,10
+301,Вязание трикотажных изделий,vyazanie_trikotazhnykh_izdelijj,10
+673,ГРЭС / КЭС / ТЭЦ,grehs_kehs_tehc,10
+570,"Дезинфекция, дератизация, дезинсекция",dezinfekciya_deratizaciya_dezinsekciya,10
+56738,Дизайн одежды,dizajjn_odezhdy,10
+111544,Доставка воды водовозом,dostavka_vody_vodovozom,10
+758,Жилищно-коммунальные услуги,zhilishhno_kommunalnye_uslugi,10
+111499,Жилищно-строительные кооперативы,zhilishhno_stroitelnye_kooperativy,10
+16610,Изготовление ключей,izgotovlenie_klyuchejj,10
+53553,Инфотерминалы,infoterminaly,10
+113255,Калибровка измерительных приборов,kalibrovka_izmeritelnykh_priborov,10
+112785,Камеры хранения багажа,kamery_khraneniya_bagazha,10
+323,Кладбища,kladbishha,10
+709,Клининг,klining,10
+112803,Комнаты матери и ребёнка,komnaty_materi_i_rebjonka,10
+19645,Крематории,krematorii,10
+128,Лифты и эскалаторы,lifty_i_ehskalatory,10
+112582,Мусорные контейнеры,musornye_kontejjnery,10
+110487,Мусорные полигоны,musornye_poligony,10
+58618,Обращение с жидкими отходами,obrashhenie_s_zhidkimi_otkhodami,10
+24397,Обслуживание домового газопровода,obsluzhivanie_domovogo_gazoprovoda,10
+50866,Обслуживание замков и дверей,obsluzhivanie_zamkov_i_dverejj,10
+112691,Общественный душ,obshhestvennyjj_dush,10
+50810,ОВиРУГ,ovirug,10
+324,Организация похорон,organizaciya_pokhoron,10
+325,Памятники и надгробия,pamyatniki_i_nadgrobiya,10
+108687,Платёжные терминалы,platjozhnye_terminaly,10
+110371,Поверка измерительных приборов,poverka_izmeritelnykh_priborov,10
+311,Подбор домашнего персонала,podbor_domashnego_personala,10
+112429,Поминальные залы,pominalnye_zaly,10
+95584,Постаматы,postamaty,10
+1013,Прачечные,prachechnye,10
+112938,Приём гуманитарной помощи,prijom_gumanitarnojj_pomoshhi,10
+12062,Прочистка дымоходов,prochistka_dymokhodov,10
+110668,Прощальные залы,proshhalnye_zaly,10
+110523,Пункты приёма,punkty_prijoma,10
+19616,Пункты приёма платежей,punkty_prijoma_platezhejj,10
+110442,Ремонт зонтов,remont_zontov,10
+56161,Ремонт одежды,remont_odezhdy,10
+67368,Ремонт очков,remont_ochkov,10
+308,Ремонт часов,remont_chasov,10
+112527,Ремонт чемоданов,remont_chemodanov,10
+112456,Ритуальные принадлежности,ritualnye_prinadlezhnosti,10
+10923,Садоводческие товарищества,sadovodcheskie_tovarishhestva,10
+111501,Сельскохозяйственные кооперативы,selskokhozyajjstvennye_kooperativy,10
+157,Службы знакомств,sluzhby_znakomstv,10
+271,Студенческие общежития,studencheskie_obshhezhitiya,10
+50414,Сурдопереводчики,surdoperevodchiki,10
+99259,Теплоснабжение,teplosnabzhenie,10
+127,Техобслуживание теплоэнергосетей,tekhobsluzhivanie_teploehnergosetejj,10
+53624,Туалеты,tualety,10
+15790,Услуги вышивки,uslugi_vyshivki,10
+112780,Устранение запахов сухим туманом и озонированием,ustranenie_zapakhov_sukhim_tumanom_i_ozonirovaniem,10
+9561,Уход за пухо-перьевыми изделиями,ukhod_za_pukho_perevymi_izdeliyami,10
+312,Фото на документы,foto_na_dokumenty,10
+1032,Фотоцентры,fotocentry,10
+112781,Химчистки обуви,khimchistki_obuvi,10
+313,Химчистки одежды и текстиля,khimchistki_odezhdy_i_tekstilya,10
+46306,Хранение меха,khranenie_mekha,10
+110953,Центры астрологии,centry_astrologii,10
+112788,Центры бытовых услуг,centry_bytovykh_uslug,10
+110465,Чистка ковров,chistka_kovrov,10
+302,Швейные ателье,shvejjnye_atele,10
+113327,Энергоснабжение,ehnergosnabzhenie,10
+3,Компьютеры / Бытовая техника / Офисная техника,kompyutery_bytovaya_tekhnika_ofisnaya_tekhnika,
+377,CD и DVD диски,cd_i_dvd_diski,3
+112935,Аренда музыкальных инструментов,arenda_muzykalnykh_instrumentov,3
+511,Аудиотехника и видеотехника,audiotekhnika_i_videotekhnika,3
+379,Бытовая техника,bytovaya_tekhnika,3
+113155,Видеоигры,videoigry,3
+4418,Заправка картриджей,zapravka_kartridzhejj,3
+50871,Запчасти для бытовой техники,zapchasti_dlya_bytovojj_tekhniki,3
+181,Компьютеры,kompyutery,3
+9629,Кофемашины,kofemashiny,3
+22370,Кулеры для воды,kulery_dlya_vody,3
+3198,Монтаж компьютерных сетей,montazh_kompyuternykh_setejj,3
+4484,Музыкальные инструменты,muzykalnye_instrumenty,3
+99202,Музыкальные пластинки,muzykalnye_plastinki,3
+112641,Оборудование для майнинга,oborudovanie_dlya_majjninga,3
+185,Оргтехника,orgtekhnika,3
+112680,Прокат компьютеров,prokat_kompyuterov,3
+110385,Прокат фото и видеотехники,prokat_foto_i_videotekhniki,3
+4420,Расходные материалы для оргтехники,raskhodnye_materialy_dlya_orgtekhniki,3
+306,Ремонт и установка бытовой техники,remont_i_ustanovka_bytovojj_tekhniki,3
+650,Ремонт компьютеров,remont_kompyuterov,3
+50867,Ремонт музыкальных инструментов,remont_muzykalnykh_instrumentov,3
+628,Ремонт оргтехники,remont_orgtekhniki,3
+961,Ремонт цифровой техники,remont_cifrovojj_tekhniki,3
+182,Сборка и апгрейд ПК,sborka_i_apgrejjd_pk,3
+4383,Сетевое оборудование,setevoe_oborudovanie,3
+921,Системное администрирование,sistemnoe_administrirovanie,3
+388,Фототовары,fototovary,3
+4,Культура / Искусство / Религия,kultura_iskusstvo_religiya,
+686,Антиквариат,antikvariat,4
+112395,Багетные мастерские,bagetnye_masterskie,4
+189,Библиотеки,biblioteki,4
+18574,Воскресные школы,voskresnye_shkoly,4
+112657,Гончарные мастерские,goncharnye_masterskie,4
+112875,Городские мероприятия,gorodskie_meropriyatiya,4
+10887,Городские оркестры,gorodskie_orkestry,4
+54914,Дацаны,dacany,4
+51206,Духовные учебные заведения,dukhovnye_uchebnye_zavedeniya,4
+51323,Иконописные мастерские,ikonopisnye_masterskie,4
+113326,Интерактивные музеи,interaktivnye_muzei,4
+191,Киностудии,kinostudii,4
+13374,Мечети,mecheti,4
+110433,Молитвенные комнаты,molitvennye_komnaty,4
+19575,Монастыри,monastyri,4
+193,Музеи,muzei,4
+110420,Нумизматика,numizmatika,4
+52186,Паломнические поездки,palomnicheskie_poezdki,4
+11647,Планетарий,planetarijj,4
+110361,Подвесы и освещение картин,podvesy_i_osveshhenie_kartin,4
+19576,Приходы,prikhody,4
+1175,Религиозные организации,religioznye_organizacii,4
+12249,Религиозные товары,religioznye_tovary,4
+51379,Реставрация исторических памятников,restavraciya_istoricheskikh_pamyatnikov,4
+54063,Синагога,sinagoga,4
+199,Театры,teatry,4
+200,Филармония,filarmoniya,4
+113154,Филателия,filateliya,4
+51207,Хоровые капеллы,khorovye_kapelly,4
+194,Храмы / Соборы / Церкви,khramy_sobory_cerkvi,4
+190,Художественные выставки,khudozhestvennye_vystavki,4
+516,Художественные мастерские,khudozhestvennye_masterskie,4
+515,Художественные товары,khudozhestvennye_tovary,4
+19577,Часовни,chasovni,4
+787,Мебель / Материалы / Фурнитура,mebel_materialy_furnitura,
+53116,Бескаркасная мебель,beskarkasnaya_mebel,787
+10566,Детская мебель,detskaya_mebel,787
+50067,Изделия из камня для помещений,izdeliya_iz_kamnya_dlya_pomeshhenijj,787
+575,Корпусная мебель,korpusnaya_mebel,787
+777,"ЛДСП, ДВПО, МДФ",ldsp_dvpo_mdf,787
+16614,Матрасы,matrasy,787
+593,Мебель для ванных комнат,mebel_dlya_vannykh_komnat,787
+53054,Мебель для культурно-досуговых учреждений,mebel_dlya_kulturno_dosugovykh_uchrezhdenijj,787
+574,Мебель для кухни,mebel_dlya_kukhni,787
+807,Мебель для общественного питания,mebel_dlya_obshhestvennogo_pitaniya,787
+112679,Мебель для салонов красоты,mebel_dlya_salonov_krasoty,787
+698,Мебель для учебных учреждений,mebel_dlya_uchebnykh_uchrezhdenijj,787
+1128,Мебель из стекла,mebel_iz_stekla,787
+589,Мебель на заказ,mebel_na_zakaz,787
+351,Мебельная фурнитура,mebelnaya_furnitura,787
+112665,Мебельные магазины,mebelnye_magaziny,787
+785,Мебельные ткани,mebelnye_tkani,787
+479,Мебельные фабрики,mebelnye_fabriki,787
+773,Мебельные фасады,mebelnye_fasady,787
+523,Медицинская и лабораторная мебель,medicinskaya_i_laboratornaya_mebel,787
+16199,Металлическая мебель,metallicheskaya_mebel,787
+573,Мягкая мебель,myagkaya_mebel,787
+776,Облицовочные материалы для мебели,oblicovochnye_materialy_dlya_mebeli,787
+352,Офисная мебель,ofisnaya_mebel,787
+109318,Пластиковая мебель,plastikovaya_mebel,787
+786,Плетёные изделия,pletjonye_izdeliya,787
+19983,Ремонт мебели,remont_mebeli,787
+112783,Ремонт резиновых и надувных изделий,remont_rezinovykh_i_naduvnykh_izdelijj,787
+4497,Садово-парковая мебель,sadovo_parkovaya_mebel,787
+110359,Сборка мебели,sborka_mebeli,787
+9102,Сейфы,sejjfy,787
+5,Медицина / Здоровье / Красота,medicina_zdorove_krasota,
+56759,SPA-процедуры,spa_procedury,5
+16876,Аллерголог-иммунолог,allergolog_immunolog,5
+9956,Альтернативная медицина,alternativnaya_medicina,5
+112432,Ангиохирург,angiokhirurg,5
+112825,Андролог,androlog,5
+207,Аптеки,apteki,5
+208,БАДы,bady,5
+50342,Банки стволовых клеток,banki_stvolovykh_kletok,5
+110998,Барбершопы,barbershopy,5
+110895,Барокамера,barokamera,5
+201,Больницы,bolnicy,5
+212,Бюро медико-социальной экспертизы,byuro_mediko_socialnojj_ehkspertizy,5
+69271,Вакцинация,vakcinaciya,5
+107581,Ведение беременности,vedenie_beremennosti,5
+110650,Вертебролог,vertebrolog,5
+112824,Вестибулолог,vestibulolog,5
+224,Взрослые поликлиники,vzroslye_polikliniki,5
+58858,Визажисты,vizazhisty,5
+217,Врач-гомеопат,vrach_gomeopat,5
+23765,Врачебные амбулатории,vrachebnye_ambulatorii,5
+16864,Гастроэнтеролог,gastroehnterolog,5
+73921,Гематолог,gematolog,5
+110471,Гемостазиолог,gemostaziolog,5
+73924,Генетик,genetik,5
+110452,Гепатолог,gepatolog,5
+55715,Гериатр,geriatr,5
+4517,Гинеколог,ginekolog,5
+13405,Гирудотерапевт,girudoterapevt,5
+202,Госпитали,gospitali,5
+4518,Дерматолог,dermatolog,5
+16863,Детские врачи,detskie_vrachi,5
+110353,Детские парикмахерские,detskie_parikmakherskie,5
+225,Детские поликлиники,detskie_polikliniki,5
+112853,Детские стоматологические поликлиники,detskie_stomatologicheskie_polikliniki,5
+112653,Дефектолог,defektolog,5
+16255,Диабетологические центры,diabetologicheskie_centry,5
+103127,Диализные центры,dializnye_centry,5
+19637,Диетолог,dietolog,5
+206,Диспансеры,dispansery,5
+18652,Доставка лекарств,dostavka_lekarstv,5
+649,Женские консультации,zhenskie_konsultacii,5
+110354,Занятия ЛФК,zanyatiya_lfk,5
+47327,Зуботехнические лаборатории,zubotekhnicheskie_laboratorii,5
+18658,Изготовление лекарств на заказ,izgotovlenie_lekarstv_na_zakaz,5
+20165,Имидж-консультанты,imidzh_konsultanty,5
+110339,Инфекционист,infekcionist,5
+13635,Кардиолог,kardiolog,5
+110975,Коллагенарий,kollagenarijj,5
+110306,Контактные линзы,kontaktnye_linzy,5
+382,Косметика и парфюмерия,kosmetika_i_parfyumeriya,5
+53986,Косметика ручной работы,kosmetika_ruchnojj_raboty,5
+652,Косметолог,kosmetolog,5
+112837,Криосауна,kriosauna,5
+52151,Лабораторные реактивы,laboratornye_reaktivy,5
+209,Лекарства - опт,lekarstva_opt,5
+112410,Лимфолог,limfolog,5
+10446,Логопед,logoped,5
+4537,ЛОР (отоларинголог),lor_otolaringolog,5
+13641,Маммолог,mammolog,5
+4530,Мануальный терапевт,manualnyjj_terapevt,5
+13726,Массажист,massazhist,5
+102001,Массажное оборудование,massazhnoe_oborudovanie,5
+112874,Медитация,meditaciya,5
+661,Медицинская диагностика,medicinskaya_diagnostika,5
+12211,Медицинские анализы,medicinskie_analizy,5
+20857,Медицинские комиссии,medicinskie_komissii,5
+52187,Медицинские пиявки,medicinskie_piyavki,5
+660,Медицинские приборы,medicinskie_pribory,5
+658,Медицинские расходные материалы,medicinskie_raskhodnye_materialy,5
+18940,Медицинское лечение зависимостей,medicinskoe_lechenie_zavisimostejj,5
+448,Медицинское оборудование,medicinskoe_oborudovanie,5
+50041,Медсанчасти,medsanchasti,5
+110417,Миколог,mikolog,5
+110341,Микрохирургия глаза,mikrokhirurgiya_glaza,5
+4521,Многопрофильные медицинские центры,mnogoprofilnye_medicinskie_centry,5
+213,Морги,morgi,5
+4529,Невролог,nevrolog,5
+112662,Нейропсихолог,nejjropsikholog,5
+110501,Нейрохирург,nejjrokhirurg,5
+58622,Нефролог,nefrolog,5
+5603,Ногтевые студии,nogtevye_studii,5
+112847,Нутрициолог,nutriciolog,5
+56064,Онколог,onkolog,5
+210,Оптика,optika,5
+9822,Ортопедические товары,ortopedicheskie_tovary,5
+111538,Остеопат,osteopat,5
+56893,Отделения общей врачебной практики,otdeleniya_obshhejj_vrachebnojj_praktiki,5
+110355,Оформление бровей и ресниц,oformlenie_brovejj_i_resnic,5
+218,Офтальмолог,oftalmolog,5
+5214,Очищение организма,ochishhenie_organizma,5
+51009,Парики и накладные волосы,pariki_i_nakladnye_volosy,5
+305,Парикмахерские,parikmakherskie,5
+4531,Патронажные услуги,patronazhnye_uslugi,5
+112828,Перманентный макияж,permanentnyjj_makiyazh,5
+219,Пластическая хирургия,plasticheskaya_khirurgiya,5
+56684,ПМПК,pmpk,5
+110410,Подолог,podolog,5
+112848,Проведение хирургических операций,provedenie_khirurgicheskikh_operacijj,5
+16869,Проктолог,proktolog,5
+110652,Протезы,protezy,5
+13102,Профессиональная косметика,professionalnaya_kosmetika,5
+110515,Профпатолог,profpatolog,5
+111507,Процедурный кабинет,procedurnyjj_kabinet,5
+110395,Психиатр,psikhiatr,5
+25075,Психиатрические учреждения,psikhiatricheskie_uchrezhdeniya,5
+221,Психолог,psikholog,5
+4509,Психологическая помощь при зависимостях,psikhologicheskaya_pomoshh_pri_zavisimostyakh,5
+49847,Психотерапевт,psikhoterapevt,5
+16875,Пульмонолог,pulmonolog,5
+112633,Радиолог,radiolog,5
+112821,Радиотерапевт,radioterapevt,5
+15366,Реабилитационные центры,reabilitacionnye_centry,5
+110367,Ревматолог,revmatolog,5
+110527,Ремонт медицинских приборов,remont_medicinskikh_priborov,5
+51462,Ремонт медицинского оборудования,remont_medicinskogo_oborudovaniya,5
+112859,Репродуктолог,reproduktolog,5
+53175,Рефлексотерапевт,refleksoterapevt,5
+203,Роддома,roddoma,5
+51099,Роды и лечение за рубежом,rody_i_lechenie_za_rubezhom,5
+67142,Роспись по телу,rospis_po_telu,5
+214,Санатории,sanatorii,5
+215,Санитарно-эпидемиологические исследования,sanitarno_ehpidemiologicheskie_issledovaniya,5
+16904,Сексолог,seksolog,5
+69989,Соляные комнаты,solyanye_komnaty,5
+109487,Сомнолог,somnolog,5
+112445,Спортивный врач,sportivnyjj_vrach,5
+659,Средства гигиены,sredstva_gigieny,5
+216,Станции переливания крови,stancii_perelivaniya_krovi,5
+226,Стоматологические поликлиники,stomatologicheskie_polikliniki,5
+651,Студии загара,studii_zagara,5
+111537,Сурдолог,surdolog,5
+112827,Суррогатное материнство,surrogatnoe_materinstvo,5
+50870,Сырьё для косметики и бытовой химии,syrjo_dlya_kosmetiki_i_bytovojj_khimii,5
+54460,Сырьё для лекарств,syrjo_dlya_lekarstv,5
+14942,Тату-салоны,tatu_salony,5
+110340,Терапевт,terapevt,5
+112492,Термальные комплексы,termalnye_kompleksy,5
+110495,Товары для реабилитации,tovary_dlya_reabilitacii,5
+112790,Товары для росписи по телу,tovary_dlya_rospisi_po_telu,5
+642,Товары для стоматологий,tovary_dlya_stomatologijj,5
+13597,Тонизирующие салоны,toniziruyushhie_salony,5
+16870,Травматолог-ортопед,travmatolog_ortoped,5
+229,Травмпункты,travmpunkty,5
+16866,Трихолог,trikholog,5
+4519,Уролог,urolog,5
+112695,Услуги пирсинга,uslugi_pirsinga,5
+112650,Услуги тейпирования,uslugi_tejjpirovaniya,5
+18410,Фельдшерско-акушерские пункты,feldshersko_akusherskie_punkty,5
+53460,Физиотерапевт,fizioterapevt,5
+10904,Фитопродукция,fitoprodukciya,5
+16867,Флеболог,flebolog,5
+112836,Флоатинг,floating,5
+110499,Фониатр,foniatr,5
+110338,Фтизиатр,ftiziatr,5
+99224,Хирург,khirurg,5
+11941,Хоспис,khospis,5
+112867,Центры амбулаторной онкологической помощи,centry_ambulatornojj_onkologicheskojj_pomoshhi,5
+19585,Центры борьбы со СПИДом,centry_borby_so_spidom,5
+110513,Центры здоровья,centry_zdorovya,5
+223,Центры планирования семьи,centry_planirovaniya_semi,5
+109309,Центры трансплантации волос,centry_transplantacii_volos,5
+112852,Частные детские стоматологии,chastnye_detskie_stomatologii,5
+222,Частные стоматологии,chastnye_stomatologii,5
+110653,Челюстно-лицевой хирург,chelyustno_licevojj_khirurg,5
+10135,Школы для будущих мам,shkoly_dlya_budushhikh_mam,5
+4534,Эндокринолог,ehndokrinolog,5
+110500,Эпилептолог,ehpileptolog,5
+110816,Эпиляция,ehpilyaciya,5
+112663,Места,mesta,
+113468,Авиапамятники,aviapamyatniki,112663
+112929,Беседки,besedki,112663
+112921,Вертолётные площадки,vertoljotnye_ploshhadki,112663
+113289,Вершины гор,vershiny_gor,112663
+112906,Водопады,vodopady,112663
+112868,Водопроводные колонки / колодцы,vodoprovodnye_kolonki_kolodcy,112663
+112924,Вольеры с животными / птицами,volery_s_zhivotnymi_pticami,112663
+113290,Выставочные экспонаты,vystavochnye_ehksponaty,112663
+112910,Дайв-споты,dajjv_spoty,112663
+112884,Детские площадки,detskie_ploshhadki,112663
+113612,Дог-боксы,dog_boksy,112663
+112917,Душ на пляже,dush_na_plyazhe,112663
+112869,Ёлочные базары,jolochnye_bazary,112663
+112919,Ж/д переезды,zh_d_pereezdy,112663
+112871,Зимние развлечения,zimnie_razvlecheniya,112663
+112670,Интересные здания,interesnye_zdaniya,112663
+112862,Информационные точки,informacionnye_tochki,112663
+113118,Ледяные горки,ledyanye_gorki,112663
+112823,Мангальные зоны,mangalnye_zony,112663
+112908,Места для выгула собак,mesta_dlya_vygula_sobak,112663
+112922,Места для курения,mesta_dlya_kureniya,112663
+112931,Места захоронения,mesta_zakhoroneniya,112663
+112918,Мост,most,112663
+112870,Новогодние ёлки,novogodnie_jolki,112663
+112900,Памятники и скульптуры,pamyatniki_i_skulptury,112663
+112901,Памятные доски,pamyatnye_doski,112663
+113470,Пещеры,peshhery,112663
+112899,Площадки Work Out,ploshhadki_work_out,112663
+112913,Площадки для пейнтбола,ploshhadki_dlya_pejjntbola,112663
+112927,Придорожные зоны отдыха,pridorozhnye_zony_otdykha,112663
+112668,Природные достопримечательности,prirodnye_dostoprimechatelnosti,112663
+112916,Раздевалки на пляже,razdevalki_na_plyazhe,112663
+113291,Религиозные объекты,religioznye_obekty,112663
+112926,Родники,rodniki,112663
+112930,Розетки,rozetki,112663
+112907,Руины,ruiny,112663
+112912,Сады / цветники,sady_cvetniki,112663
+113471,Скалы,skaly,112663
+112914,Спасательные посты,spasatelnye_posty,112663
+112925,Спортивные площадки,sportivnye_ploshhadki,112663
+112905,Стрит-арт,strit_art,112663
+112915,Сцены,sceny,112663
+112920,Танцевальные площадки,tancevalnye_ploshhadki,112663
+113467,Теннисные столы,tennisnye_stoly,112663
+112928,Тиры,tiry,112663
+113457,Точки Wi-Fi,tochki_wi_fi,112663
+113292,Точки интереса,tochki_interesa,112663
+113466,Точки проката электросамокатов,tochki_prokata_ehlektrosamokatov,112663
+112872,Уличные катки,ulichnye_katki,112663
+113465,Уличные тренажёры,ulichnye_trenazhjory,112663
+112911,Усадьбы,usadby,112663
+112720,Фонтаны,fontany,112663
+112932,Эстакады,ehstakady,112663
+13,Металлы / Топливо / Химия,metally_toplivo_khimiya,
+19134,Геологоразведочные работы,geologorazvedochnye_raboty,13
+21616,Дезинфицирующие средства,dezinficiruyushhie_sredstva,13
+19132,Добыча полезных ископаемых,dobycha_poleznykh_iskopaemykh,13
+55718,Колокола,kolokola,13
+5276,Красящие вещества,krasyashhie_veshhestva,13
+11919,Криогенные жидкости,kriogennye_zhidkosti,13
+16539,Литейное производство,litejjnoe_proizvodstvo,13
+56265,Магниты,magnity,13
+504,Металлоизделия,metalloizdeliya,13
+487,Металлообработка,metalloobrabotka,13
+71648,Металлы и сплавы,metally_i_splavy,13
+51214,Мусоропроводы,musoroprovody,13
+834,Нержавеющий металлопрокат,nerzhaveyushhijj_metalloprokat,13
+8416,Нефте- и газодобывающие компании,nefte_i_gazodobyvayushhie_kompanii,13
+411,Нефтепродукты и ГСМ,nefteprodukty_i_gsm,13
+16814,Нефтяные резервуары,neftyanye_rezervuary,13
+8412,Обслуживание нефтегазодобывающих компаний,obsluzhivanie_neftegazodobyvayushhikh_kompanijj,13
+56455,Приём и переработка драгметаллов,prijom_i_pererabotka_dragmetallov,13
+477,Производство изделий из пластмасс,proizvodstvo_izdelijj_iz_plastmass,13
+602,Промышленная химия,promyshlennaya_khimiya,13
+24468,Профессиональная химия,professionalnaya_khimiya,13
+656,Сварочные материалы,svarochnye_materialy,13
+112396,Топливный газ,toplivnyjj_gaz,13
+490,Уголь,ugol,13
+476,Утилизация отходов и переработка вторсырья,utilizaciya_otkhodov_i_pererabotka_vtorsyrya,13
+616,Цветной металлопрокат,cvetnojj_metalloprokat,13
+615,Чёрный металлопрокат,chjornyjj_metalloprokat,13
+15,Оборудование / Инструмент,oborudovanie_instrument,
+604,Абразивный инструмент,abrazivnyjj_instrument,15
+51105,Абразивоструйное оборудование,abrazivostrujjnoe_oborudovanie,15
+110516,Альтернативные источники энергии,alternativnye_istochniki_ehnergii,15
+436,Банковское оборудование,bankovskoe_oborudovanie,15
+1549,Бензиновое и дизельное оборудование,benzinovoe_i_dizelnoe_oborudovanie,15
+1108,Бензоинструмент,benzoinstrument,15
+110434,Бетоносмесители,betonosmesiteli,15
+7988,Буровое оборудование,burovoe_oborudovanie,15
+447,"Вентиляционное, тепловое оборудование",ventilyacionnoe_teplovoe_oborudovanie,15
+1074,Весовое оборудование,vesovoe_oborudovanie,15
+657,Газовое оборудование,gazovoe_oborudovanie,15
+7666,Гидравлическое оборудование,gidravlicheskoe_oborudovanie,15
+513,Горно-шахтное оборудование,gorno_shakhtnoe_oborudovanie,15
+438,Деревообрабатывающее оборудование,derevoobrabatyvayushhee_oborudovanie,15
+705,Деревообрабатывающий инструмент,derevoobrabatyvayushhijj_instrument,15
+47780,Заточка режущих инструментов,zatochka_rezhushhikh_instrumentov,15
+16397,"Звуковое, световое и видеооборудование",zvukovoe_svetovoe_i_videooborudovanie,15
+1232,Игорное оборудование,igornoe_oborudovanie,15
+67041,Изделия из стеклопластика,izdeliya_iz_stekloplastika,15
+654,Измерительный инструмент,izmeritelnyjj_instrument,15
+585,Каркасно-тентовые конструкции,karkasno_tentovye_konstrukcii,15
+51325,Кинооборудование,kinooborudovanie,15
+719,Клининговое оборудование,kliningovoe_oborudovanie,15
+596,Кондиционеры,kondicionery,15
+670,Контрольно-кассовая техника,kontrolno_kassovaya_tekhnika,15
+669,Котельное оборудование,kotelnoe_oborudovanie,15
+16405,Лингафонное оборудование,lingafonnoe_oborudovanie,15
+5272,Малярный инструмент,malyarnyjj_instrument,15
+614,Металлообрабатывающее оборудование,metalloobrabatyvayushhee_oborudovanie,15
+655,Металлорежущий инструмент,metallorezhushhijj_instrument,15
+450,Насосное оборудование,nasosnoe_oborudovanie,15
+451,Нефтегазовое оборудование,neftegazovoe_oborudovanie,15
+103934,Оборудование для 3D печати,oborudovanie_dlya_3d_pechati,15
+8743,Оборудование для автоматизации промышленности,oborudovanie_dlya_avtomatizacii_promyshlennosti,15
+29502,Оборудование для автоматизации торговли,oborudovanie_dlya_avtomatizacii_torgovli,15
+13410,Оборудование для автомоек,oborudovanie_dlya_avtomoek,15
+439,Оборудование для автосервиса,oborudovanie_dlya_avtoservisa,15
+618,Оборудование для АЗС и нефтебаз,oborudovanie_dlya_azs_i_neftebaz,15
+58828,Оборудование для бассейнов,oborudovanie_dlya_bassejjnov,15
+110435,Оборудование для горнолыжных комплексов,oborudovanie_dlya_gornolyzhnykh_kompleksov,15
+531,Оборудование для лабораторий,oborudovanie_dlya_laboratorijj,15
+1206,Оборудование для маркировки товаров,oborudovanie_dlya_markirovki_tovarov,15
+8065,Оборудование для металлургии,oborudovanie_dlya_metallurgii,15
+112622,Оборудование для образовательных учреждений,oborudovanie_dlya_obrazovatelnykh_uchrezhdenijj,15
+70039,Оборудование для обуви и кожгалантереи,oborudovanie_dlya_obuvi_i_kozhgalanterei,15
+1234,Оборудование для общепита,oborudovanie_dlya_obshhepita,15
+1614,Оборудование для полимерной окраски,oborudovanie_dlya_polimernojj_okraski,15
+443,Оборудование для производства мебели,oborudovanie_dlya_proizvodstva_mebeli,15
+14190,Оборудование для производства окон,oborudovanie_dlya_proizvodstva_okon,15
+52184,Оборудование для производства пластмасс,oborudovanie_dlya_proizvodstva_plastmass,15
+1616,Оборудование для производства стройматериалов,oborudovanie_dlya_proizvodstva_strojjmaterialov,15
+441,Оборудование для салонов красоты,oborudovanie_dlya_salonov_krasoty,15
+444,Оборудование для сельского хозяйства,oborudovanie_dlya_selskogo_khozyajjstva,15
+57185,Оборудование для утилизации отходов,oborudovanie_dlya_utilizacii_otkhodov,15
+24109,Оборудование для химчисток,oborudovanie_dlya_khimchistok,15
+54646,Оборудование для ЦБП,oborudovanie_dlya_cbp,15
+446,Оборудование для энергосбережения,oborudovanie_dlya_ehnergosberezheniya,15
+24812,Обслуживание климатического оборудования для помещений,obsluzhivanie_klimaticheskogo_oborudovaniya_dlya_pomeshhenijj,15
+102029,Окрасочное оборудование,okrasochnoe_oborudovanie,15
+1617,Очистители воздуха,ochistiteli_vozdukha,15
+442,Пищевое оборудование,pishhevoe_oborudovanie,15
+541,Пневмо- и компрессорное оборудование,pnevmo_i_kompressornoe_oborudovanie,15
+17017,Пневмоинструмент,pnevmoinstrument,15
+613,Подшипники,podshipniki,15
+452,Полиграфическое оборудование,poligraficheskoe_oborudovanie,15
+53596,Почтообрабатывающее оборудование,pochtoobrabatyvayushhee_oborudovanie,15
+691,Пресс-формы и штампы,press_formy_i_shtampy,15
+14444,Продажа вендингового оборудования,prodazha_vendingovogo_oborudovaniya,15
+600,Продажа инфракрасных кабин,prodazha_infrakrasnykh_kabin,15
+10351,Продажа платёжных терминалов и инфокиосков,prodazha_platjozhnykh_terminalov_i_infokioskov,15
+16400,Проекционное оборудование,proekcionnoe_oborudovanie,15
+112645,Прокат клинингового оборудования,prokat_kliningovogo_oborudovaniya,15
+51010,Прокат мультимедийного оборудования,prokat_multimedijjnogo_oborudovaniya,15
+51013,Прокат оборудования и инструментов,prokat_oborudovaniya_i_instrumentov,15
+54649,Промышленные трубы,promyshlennye_truby,15
+475,Резинотехнические изделия,rezinotekhnicheskie_izdeliya,15
+110489,Ремонт банковского оборудования,remont_bankovskogo_oborudovaniya,15
+23787,Ремонт бензоинструмента,remont_benzoinstrumenta,15
+110348,"Ремонт мультимедийного, презентационного и светового оборудования",remont_multimedijjnogo_prezentacionnogo_i_svetovogo_oborudovaniya,15
+112425,Ремонт оборудования для автосервиса,remont_oborudovaniya_dlya_avtoservisa,15
+112603,Ремонт оборудования для салонов красоты,remont_oborudovaniya_dlya_salonov_krasoty,15
+5655,Ремонт промышленного оборудования,remont_promyshlennogo_oborudovaniya,15
+57240,Ремонт торгового оборудования,remont_torgovogo_oborudovaniya,15
+1218,Ремонт электроинструмента,remont_ehlektroinstrumenta,15
+528,Сварочное оборудование,svarochnoe_oborudovanie,15
+110454,Системы пневмопочты,sistemy_pnevmopochty,15
+13406,Системы центрального пылеудаления,sistemy_centralnogo_pyleudaleniya,15
+598,Слесарно-монтажный инструмент,slesarno_montazhnyjj_instrument,15
+110401,Стеклообрабатывающее оборудование,stekloobrabatyvayushhee_oborudovanie,15
+1073,Стеллажи и витрины,stellazhi_i_vitriny,15
+19490,Строительное оборудование,stroitelnoe_oborudovanie,15
+110649,Строительные подъёмники,stroitelnye_podjomniki,15
+1559,Тёплые полы,tjoplye_poly,15
+521,Техника для склада,tekhnika_dlya_sklada,15
+530,Ткацкое оборудование,tkackoe_oborudovanie,15
+1241,Торгово-выставочное оборудование,torgovo_vystavochnoe_oborudovanie,15
+623,Фасовочно-упаковочное оборудование,fasovochno_upakovochnoe_oborudovanie,15
+457,Холодильное оборудование,kholodilnoe_oborudovanie,15
+458,Швейное оборудование,shvejjnoe_oborudovanie,15
+599,Электроинструмент,ehlektroinstrument,15
+21516,Ювелирное оборудование,yuvelirnoe_oborudovanie,15
+6,Образование / Работа / Карьера,obrazovanie_rabota_karera,
+112787,Автоинструкторы,avtoinstruktory,6
+233,Автошколы,avtoshkoly,6
+230,Академии,akademii,6
+50532,Актёрские курсы,aktjorskie_kursy,6
+668,Бизнес-тренинги,biznes_treningi,6
+694,Бухгалтерские курсы,bukhgalterskie_kursy,6
+683,Гимназии,gimnazii,6
+243,Детские музыкальные школы,detskie_muzykalnye_shkoly,6
+237,Детские сады,detskie_sady,6
+244,Детские художественные школы,detskie_khudozhestvennye_shkoly,6
+16757,Дизайнерские курсы,dizajjnerskie_kursy,6
+231,Институты,instituty,6
+49787,Кадетские школы,kadetskie_shkoly,6
+326,Кадровые агентства,kadrovye_agentstva,6
+55666,Киношколы,kinoshkoly,6
+246,Колледжи,kolledzhi,6
+678,Компьютерные курсы,kompyuternye_kursy,6
+51208,Консерватории,konservatorii,6
+239,Конструкторские бюро,konstruktorskie_byuro,6
+9964,Крюинговые агентства,kryuingovye_agentstva,6
+53599,Кулинарные курсы,kulinarnye_kursy,6
+53598,Курсы вокала,kursy_vokala,6
+53051,Курсы диджеев,kursy_didzheev,6
+112902,Курсы первой помощи,kursy_pervojj_pomoshhi,6
+110368,Курсы сомелье,kursy_somele,6
+52160,Курсы творчества для взрослых,kursy_tvorchestva_dlya_vzroslykh,6
+15287,Лицеи,licei,6
+21040,Лицеи-интернаты,licei_internaty,6
+14431,Личностные тренинги,lichnostnye_treningi,6
+110999,Медиашколы,mediashkoly,6
+1058,Межшкольные учебные комбинаты,mezhshkolnye_uchebnye_kombinaty,6
+550,Модельные агентства,modelnye_agentstva,6
+110402,Мотошколы,motoshkoly,6
+56437,Музыкальные курсы,muzykalnye_kursy,6
+241,Научно-исследовательские институты,nauchno_issledovatelskie_instituty,6
+15761,Начальные школы-детские сады и прогимназии,nachalnye_shkoly_detskie_sady_i_progimnazii,6
+50875,Обсерватории,observatorii,6
+693,Обучение бизнес-профессиям,obuchenie_biznes_professiyam,6
+676,Обучение за рубежом,obuchenie_za_rubezhom,6
+51378,Обучение имидж-консультантов,obuchenie_imidzh_konsultantov,6
+51356,Обучение массажистов,obuchenie_massazhistov,6
+695,Обучение мастеров для салонов красоты,obuchenie_masterov_dlya_salonov_krasoty,6
+10115,Обучение морским профессиям,obuchenie_morskim_professiyam,6
+1152,Обучение охранников,obuchenie_okhrannikov,6
+13645,Обучение по охране труда,obuchenie_po_okhrane_truda,6
+55616,Обучение по промышленной безопасности,obuchenie_po_promyshlennojj_bezopasnosti,6
+692,Обучение рабочим профессиям,obuchenie_rabochim_professiyam,6
+21121,Обучение судовождению,obuchenie_sudovozhdeniyu,6
+54146,Обучение фитнес-инструкторов,obuchenie_fitnes_instruktorov,6
+22779,Организации по профориентации,organizacii_po_proforientacii,6
+512,Перевод с иностранных языков,perevod_s_inostrannykh_yazykov,6
+234,Переподготовка и повышение квалификации,perepodgotovka_i_povyshenie_kvalifikacii,6
+51645,Повышение водительского мастерства,povyshenie_voditelskogo_masterstva,6
+110453,Подготовка иностранцев по русскому языку,podgotovka_inostrancev_po_russkomu_yazyku,6
+1181,Помощь в обучении,pomoshh_v_obuchenii,6
+15285,Профессиональные лицеи,professionalnye_licei,6
+110311,Специальные школы,specialnye_shkoly,6
+247,Техникумы,tekhnikumy,6
+16928,Тимбилдинг,timbilding,6
+22327,Трудоустройство за рубежом,trudoustrojjstvo_za_rubezhom,6
+232,Университеты,universitety,6
+248,Училища,uchilishha,6
+19080,Фотошколы,fotoshkoly,6
+113332,Художественные курсы,khudozhestvennye_kursy,6
+55691,Центры генеалогии,centry_genealogii,6
+110524,Центры дистанционного обучения,centry_distancionnogo_obucheniya,6
+112444,Центры подключения водителей,centry_podklyucheniya_voditelejj,6
+112793,Центры подключения курьеров,centry_podklyucheniya_kurerov,6
+5683,Центры раннего развития детей,centry_rannego_razvitiya_detejj,6
+67495,Цирковые школы,cirkovye_shkoly,6
+110405,Частные детские сады,chastnye_detskie_sady,6
+245,Школы,shkoly,6
+687,Школы-интернаты,shkoly_internaty,6
+518,Школы искусств,shkoly_iskusstv,6
+112634,Школы приёмных родителей,shkoly_prijomnykh_roditelejj,6
+675,Языковые школы,yazykovye_shkoly,6
+1035,Одежда / Обувь,odezhda_obuv,
+112448,Аниме и косплей товары,anime_i_kosplejj_tovary,1035
+1182,Бижутерия,bizhuteriya,1035
+14426,Верхняя одежда,verkhnyaya_odezhda,1035
+354,Головные и шейные уборы,golovnye_i_shejjnye_ubory,1035
+13100,Детская обувь,detskaya_obuv,1035
+609,Детская одежда,detskaya_odezhda,1035
+605,Джинсовая одежда,dzhinsovaya_odezhda,1035
+606,Женская одежда,zhenskaya_odezhda,1035
+346,Игрушки,igrushki,1035
+112678,Купальники,kupalniki,1035
+44938,Материалы для производства обуви,materialy_dlya_proizvodstva_obuvi,1035
+355,Меха и кожа,mekha_i_kozha,1035
+551,Меховое и кожаное сырьё,mekhovoe_i_kozhanoe_syrjo,1035
+612,Мужская одежда,muzhskaya_odezhda,1035
+110344,Мусульманская одежда,musulmanskaya_odezhda,1035
+353,Нижнее бельё,nizhnee_beljo,1035
+359,Носки и колготки,noski_i_kolgotki,1035
+1248,Обувная косметика,obuvnaya_kosmetika,1035
+25168,Обувные ателье,obuvnye_atele,1035
+356,Обувные магазины,obuvnye_magaziny,1035
+799,Обувь - опт,obuv_opt,1035
+110390,Одежда и обувь для силовых структур,odezhda_i_obuv_dlya_silovykh_struktur,1035
+52236,Одежда и обувь для танцев,odezhda_i_obuv_dlya_tancev,1035
+112682,Пляжные принадлежности,plyazhnye_prinadlezhnosti,1035
+480,Производство обуви,proizvodstvo_obuvi,1035
+112638,Прокат детских платьев,prokat_detskikh_platev,1035
+112491,Прокат детских товаров,prokat_detskikh_tovarov,1035
+112586,Прокат мужских костюмов,prokat_muzhskikh_kostyumov,1035
+110450,Прокат свадебных / вечерних платьев,prokat_svadebnykh_vechernikh_platev,1035
+54001,Пуховые изделия,pukhovye_izdeliya,1035
+55670,Ремонт детских товаров,remont_detskikh_tovarov,1035
+307,Ремонт обуви и кожгалантереи,remont_obuvi_i_kozhgalanterei,1035
+383,Свадебные товары,svadebnye_tovary,1035
+608,Секонд-хенд,sekond_khend,1035
+110464,Солнцезащитные очки,solncezashhitnye_ochki,1035
+10377,Спецобувь,specobuv,1035
+358,Спецодежда,specodezhda,1035
+526,Сумки и кожгалантерея,sumki_i_kozhgalantereya,1035
+16491,Сценические и карнавальные костюмы,scenicheskie_i_karnavalnye_kostyumy,1035
+5269,Товары для беременных и кормящих мам,tovary_dlya_beremennykh_i_kormyashhikh_mam,1035
+345,Товары для новорождённых,tovary_dlya_novorozhdjonnykh,1035
+555,Трикотажные изделия,trikotazhnye_izdeliya,1035
+112618,Швейное производство,shvejjnoe_proizvodstvo,1035
+110404,Школьная форма,shkolnaya_forma,1035
+1621,Охрана / Безопасность,okhrana_bezopasnost,
+110654,Ведомственная охрана,vedomstvennaya_okhrana,1621
+316,Вневедомственная охрана,vnevedomstvennaya_okhrana,1621
+317,Детективы,detektivy,1621
+51883,Детекторы лжи,detektory_lzhi,1621
+8199,Домофоны,domofony,1621
+1102,Монтаж охранно-пожарных систем,montazh_okhranno_pozharnykh_sistem,1621
+1669,Огнезащитная обработка,ognezashhitnaya_obrabotka,1621
+319,Охранные системы,okhrannye_sistemy,1621
+99172,Очистка местности от ВОП,ochistka_mestnosti_ot_vop,1621
+112446,Перевозка денежных средств и ценностей,perevozka_denezhnykh_sredstv_i_cennostejj,1621
+22831,Пломбировочные устройства,plombirovochnye_ustrojjstva,1621
+453,Противопожарное оборудование,protivopozharnoe_oborudovanie,1621
+454,Спасательное оборудование,spasatelnoe_oborudovanie,1621
+110360,Услуги защиты вещей от потери,uslugi_zashhity_veshhejj_ot_poteri,1621
+51360,Услуги инкассации,uslugi_inkassacii,1621
+318,Услуги охраны,uslugi_okhrany,1621
+14,Продукты питания / Напитки,produkty_pitaniya_napitki,
+360,Алкогольные напитки,alkogolnye_napitki,14
+361,Безалкогольные напитки,bezalkogolnye_napitki,14
+567,Детское питание,detskoe_pitanie,14
+375,Диетические продукты,dieticheskie_produkty,14
+568,Жир и маслопродукты,zhir_i_masloprodukty,14
+1269,Зерно,zerno,14
+1281,Зернопереработка,zernopererabotka,14
+112674,Ингредиенты азиатской кухни - опт,ingredienty_aziatskojj_kukhni_opt,14
+4480,Колбасные изделия,kolbasnye_izdeliya,14
+363,Кондитерские изделия,konditerskie_izdeliya,14
+563,Консервы,konservy,14
+55540,Магазины азиатских продуктов,magaziny_aziatskikh_produktov,14
+3231,Макароны,makarony,14
+51905,Мелкофасованные продукты питания,melkofasovannye_produkty_pitaniya,14
+110370,Минеральная вода,mineralnaya_voda,14
+557,Молочные продукты,molochnye_produkty,14
+469,Мороженое,morozhenoe,14
+3232,Мука и крупы,muka_i_krupy,14
+562,Мясо и полуфабрикаты,myaso_i_polufabrikaty,14
+712,Мясо птицы и полуфабрикаты,myaso_pticy_i_polufabrikaty,14
+53975,Оболочка для колбасных изделий,obolochka_dlya_kolbasnykh_izdelijj,14
+564,Овощи и фрукты,ovoshhi_i_frukty,14
+5843,"Орехи, семечки, сухофрукты",orekhi_semechki_sukhofrukty,14
+19288,Пиво - опт,pivo_opt,14
+372,Питьевая вода,pitevaya_voda,14
+55723,Пищевой лёд,pishhevojj_ljod,14
+558,Продажа кофе,prodazha_kofe,14
+112683,Продажа чая,prodazha_chaya,14
+111592,Продовольственные киоски,prodovolstvennye_kioski,14
+373,Продуктовые магазины,produktovye_magaziny,14
+561,Продукты быстрого приготовления,produkty_bystrogo_prigotovleniya,14
+1273,Продукты пчеловодства,produkty_pchelovodstva,14
+112801,Разливное вино,razlivnoe_vino,14
+19290,Разливное пиво,razlivnoe_pivo,14
+112704,Растениеводство,rastenievodstvo,14
+110976,Ремонт электронных сигарет,remont_ehlektronnykh_sigaret,14
+366,Рыба и морепродукты,ryba_i_moreprodukty,14
+559,Сахар и соль,sakhar_i_sol,14
+879,Снеки,sneki,14
+501,Специи,specii,14
+110456,Сухой паёк,sukhojj_pajok,14
+935,Сыры,syry,14
+925,Сырьё для пищевой промышленности,syrjo_dlya_pishhevojj_promyshlennosti,14
+367,Табачные изделия и товары для курения,tabachnye_izdeliya_i_tovary_dlya_kureniya,14
+20223,Фастфудная продукция - опт,fastfudnaya_produkciya_opt,14
+544,Хлебобулочные изделия,khlebobulochnye_izdeliya,14
+110483,Электронные сигареты,ehlektronnye_sigarety,14
+110324,Ягоды и грибы,yagody_i_griby,14
+5266,Яйцо,yajjco,14
+7,Реклама / Полиграфия / СМИ,reklama_poligrafiya_smi,
+18854,Indoor-реклама,indoor_reklama,7
+666,PR и связи с общественностью,pr_i_svyazi_s_obshhestvennostyu,7
+52973,Аромамаркетинг,aromamarketing,7
+378,Бумага для полиграфии,bumaga_dlya_poligrafii,7
+5602,Видеосъёмка,videosjomka,7
+1059,Газеты,gazety,7
+110519,Гидроабразивная резка неметаллов,gidroabrazivnaya_rezka_nemetallov,7
+52194,Голографическая продукция,golograficheskaya_produkciya,7
+16022,Гравировка,gravirovka,7
+49523,Деколирование,dekolirovanie,7
+321,Дизайн рекламы,dizajjn_reklamy,7
+334,Директ-мэйл,direkt_mehjjl,7
+254,Журналы,zhurnaly,7
+7579,Изготовление рекламных конструкций,izgotovlenie_reklamnykh_konstrukcijj,7
+110506,Изготовление табличек,izgotovlenie_tablichek,7
+58621,Изготовление фотокниг,izgotovlenie_fotoknig,7
+14398,Информационные агентства,informacionnye_agentstva,7
+56516,Контрольные браслеты,kontrolnye_braslety,7
+15075,Копировальные услуги,kopirovalnye_uslugi,7
+110494,Лазерная резка неметаллов,lazernaya_rezka_nemetallov,7
+333,Маркетинговые исследования,marketingovye_issledovaniya,7
+945,Материалы для наружной рекламы,materialy_dlya_naruzhnojj_reklamy,7
+112623,Музыкальное оформление бизнеса,muzykalnoe_oformlenie_biznesa,7
+8192,Оперативная полиграфия,operativnaya_poligrafiya,7
+8188,Офсетная печать,ofsetnaya_pechat,7
+112419,Оцифровка,ocifrovka,7
+625,Печать на сувенирах,pechat_na_suvenirakh,7
+110496,Плоттерная резка,plotternaya_rezka,7
+9509,Подписка на печатные издания,podpiska_na_pechatnye_izdaniya,7
+8402,Полиграфия,poligrafiya,7
+8368,Послепечатная обработка,poslepechatnaya_obrabotka,7
+255,Предпечатная подготовка,predpechatnaya_podgotovka,7
+52959,Продажа печатной продукции,prodazha_pechatnojj_produkcii,7
+7319,Производство пластиковых карт,proizvodstvo_plastikovykh_kart,7
+1204,Промоушн-акции,promoushn_akcii,7
+110497,Прямая цифровая печать,pryamaya_cifrovaya_pechat,7
+256,Радиостанции,radiostancii,7
+7578,Размещение наружной рекламы,razmeshhenie_naruzhnojj_reklamy,7
+464,Расходные материалы для полиграфии,raskhodnye_materialy_dlya_poligrafii,7
+18315,Реклама в интернете,reklama_v_internete,7
+322,Реклама в СМИ,reklama_v_smi,7
+1613,Реклама на транспорте,reklama_na_transporte,7
+9827,Рекламные агентства полного цикла,reklamnye_agentstva_polnogo_cikla,7
+923,Световая реклама,svetovaya_reklama,7
+18530,Согласование наружной рекламы,soglasovanie_naruzhnojj_reklamy,7
+1060,Справочники,spravochniki,7
+8367,Студии звукозаписи,studii_zvukozapisi,7
+113218,Студии подкастов,studii_podkastov,7
+8189,Тампопечать,tampopechat,7
+47736,Теле- и радиокомпании,tele_i_radiokompanii,7
+47741,Телеканалы,telekanaly,7
+8190,Термотрансфер,termotransfer,7
+1123,Тиражирование дисков,tirazhirovanie_diskov,7
+54145,Услуги продюсирования,uslugi_prodyusirovaniya,7
+110342,УФ-печать,uf_pechat,7
+8191,Флексопечать,fleksopechat,7
+51324,Фотобанки,fotobanki,7
+1015,Фотостудии,fotostudii,7
+110493,Фрезеровка неметаллов,frezerovka_nemetallov,7
+8193,Шелкография,shelkografiya,7
+622,Широкоформатная печать,shirokoformatnaya_pechat,7
+8,Спорт / Отдых / Туризм,sport_otdykh_turizm,
+51646,Авиаклубы,aviakluby,8
+112548,Авто- и мотодромы,avto_i_motodromy,8
+110332,Аквааэробика,akvaaehrobika,8
+111005,Аренда коттеджей / гостевых домов,arenda_kottedzhejj_gostevykh_domov,8
+110498,Аренда спортивных площадок,arenda_sportivnykh_ploshhadok,8
+112685,Атрибутика для болельщиков,atributika_dlya_bolelshhikov,8
+547,Базы отдыха,bazy_otdykha,8
+261,Бассейны,bassejjny,8
+110427,Батутные центры,batutnye_centry,8
+110387,Бронирование гостиниц,bronirovanie_gostinic,8
+71232,Велнес-залы,velnes_zaly,8
+809,Велосипеды,velosipedy,8
+631,Водно-спортивная техника,vodno_sportivnaya_tekhnika,8
+113083,Водные прогулки,vodnye_progulki,8
+68951,Военно-патриотические клубы,voenno_patrioticheskie_kluby,8
+51221,Гольф-клубы,golf_kluby,8
+24472,Горнолыжные комплексы,gornolyzhnye_kompleksy,8
+111540,Горнолыжные подъёмники,gornolyzhnye_podjomniki,8
+269,Гостиницы,gostinicy,8
+270,Детские лагеря,detskie_lagerya,8
+774,Детское игровое оборудование,detskoe_igrovoe_oborudovanie,8
+112677,Дневные детские лагеря,dnevnye_detskie_lagerya,8
+51008,Картинг,karting,8
+11974,Каток,katok,8
+19487,Квартиры посуточно,kvartiry_posutochno,8
+70348,Кемпинги,kempingi,8
+112684,Клубы настольного тенниса,kluby_nastolnogo_tennisa,8
+262,Конные клубы,konnye_kluby,8
+19601,Круизы,kruizy,8
+113042,Ледовые дворцы,ledovye_dvorcy,8
+110490,Лодочные станции,lodochnye_stancii,8
+112877,Лыжные базы,lyzhnye_bazy,8
+47105,Наградная продукция,nagradnaya_produkciya,8
+111539,Обучение горнолыжному спорту,obuchenie_gornolyzhnomu_sportu,8
+4515,Обучение танцам,obuchenie_tancam,8
+112545,Общежития для рабочих,obshhezhitiya_dlya_rabochikh,8
+25108,Организация активных туров,organizaciya_aktivnykh_turov,8
+113082,Организация выездного детского лагеря,organizaciya_vyezdnogo_detskogo_lagerya,8
+112541,Отели для свиданий,oteli_dlya_svidanijj,8
+110491,Охотничьи центры,okhotnichi_centry,8
+113419,Падел-корты,padel_korty,8
+51414,Подводное снаряжение,podvodnoe_snaryazhenie,8
+20863,Помощь в оформлении загранпаспортов,pomoshh_v_oformlenii_zagranpasportov,8
+266,Профессиональные спортивные клубы,professionalnye_sportivnye_kluby,8
+52495,Ремонт спортивного инвентаря,remont_sportivnogo_inventarya,8
+110423,Ремонт спортивного оборудования,remont_sportivnogo_oborudovaniya,8
+112855,Ремонт спортивной экипировки,remont_sportivnojj_ehkipirovki,8
+110422,Ремонт товаров для охоты,remont_tovarov_dlya_okhoty,8
+110481,Ремонт товаров для рыбалки,remont_tovarov_dlya_rybalki,8
+51244,Рыболовные центры,rybolovnye_centry,8
+110303,Скалодромы,skalodromy,8
+99736,Сквош-корты,skvosh_korty,8
+607,Спортивная одежда и обувь,sportivnaya_odezhda_i_obuv,8
+696,Спортивное оборудование,sportivnoe_oborudovanie,8
+1233,Спортивное питание,sportivnoe_pitanie,8
+51370,Спортивно-интеллектуальные клубы,sportivno_intellektualnye_kluby,8
+61066,Спортивно-развлекательные товары,sportivno_razvlekatelnye_tovary,8
+264,Спортивно-технические клубы,sportivno_tekhnicheskie_kluby,8
+51256,Спортивные секции,sportivnye_sekcii,8
+633,Спортивные школы,sportivnye_shkoly,8
+764,Спортивный инвентарь,sportivnyjj_inventar,8
+309,Спортивный прокат,sportivnyjj_prokat,8
+634,Стадионы / Спортивные арены,stadiony_sportivnye_areny,8
+51241,Теннисные корты,tennisnye_korty,8
+53139,Товары для конного спорта,tovary_dlya_konnogo_sporta,8
+384,Товары для охоты,tovary_dlya_okhoty,8
+259,Товары для рыбалки,tovary_dlya_rybalki,8
+505,Товары для туризма и отдыха,tovary_dlya_turizma_i_otdykha,8
+267,Тренажёрные залы,trenazhjornye_zaly,8
+272,Турагентства,turagentstva,8
+23494,Турагентства внутреннего туризма,turagentstva_vnutrennego_turizma,8
+16615,Туроператоры,turoperatory,8
+112878,Тюбинговые трассы,tyubingovye_trassy,8
+20773,Федерации спорта,federacii_sporta,8
+268,Фитнес-клубы,fitnes_kluby,8
+52681,Хостелы,khostely,8
+112588,Центры адаптивного спорта,centry_adaptivnogo_sporta,8
+20228,Центры йоги,centry_jjogi,8
+112621,Центры тестирования ГТО,centry_testirovaniya_gto,8
+9965,Яхт-клубы,yakht_kluby,8
+42867,Строительные / отделочные материалы,stroitelnye_otdelochnye_materialy,
+993,Автоматические ворота и шлагбаумы,avtomaticheskie_vorota_i_shlagbaumy,42867
+110445,Автоматические двери,avtomaticheskie_dveri,42867
+19119,Асбестотехническая продукция,asbestotekhnicheskaya_produkciya,42867
+1196,Бетон и раствор,beton_i_rastvor,42867
+1558,Витражи и мозаика,vitrazhi_i_mozaika,42867
+69342,Вторичные стройматериалы,vtorichnye_strojjmaterialy,42867
+9972,Входные двери,vkhodnye_dveri,42867
+582,Герметики и клеи,germetiki_i_klei,42867
+280,Гидроизоляционные материалы,gidroizolyacionnye_materialy,42867
+580,Гипсокартон,gipsokarton,42867
+53266,Грязепоглощающие покрытия,gryazepogloshhayushhie_pokrytiya,42867
+13648,Декоративные отделочные материалы,dekorativnye_otdelochnye_materialy,42867
+768,"ДСП, ДВП, фанера",dsp_dvp_fanera,42867
+283,Железобетонные изделия,zhelezobetonnye_izdeliya,42867
+937,Заборы и ограждения,zabory_i_ograzhdeniya,42867
+594,Замки и скобяные изделия,zamki_i_skobyanye_izdeliya,42867
+8740,Звукоизоляционные материалы,zvukoizolyacionnye_materialy,42867
+538,Керамическая плитка,keramicheskaya_plitka,42867
+1197,Керамогранит,keramogranit,42867
+579,Кирпич,kirpich,42867
+10458,Комплектующие для дверей,komplektuyushhie_dlya_dverejj,42867
+1556,Комплектующие для окон,komplektuyushhie_dlya_okon,42867
+805,Крепёж,krepjozh,42867
+284,Кровельные материалы,krovelnye_materialy,42867
+285,Лаки и краски,laki_i_kraski,42867
+549,Материалы для дорожного строительства,materialy_dlya_dorozhnogo_stroitelstva,42867
+9973,Межкомнатные двери,mezhkomnatnye_dveri,42867
+473,Металлоконструкции для строительства,metallokonstrukcii_dlya_stroitelstva,42867
+287,Напольные покрытия,napolnye_pokrytiya,42867
+584,Натяжные потолки,natyazhnye_potolki,42867
+50084,Облицовочный камень,oblicovochnyjj_kamen,42867
+556,Обои,oboi,42867
+47773,Огнезащитные материалы,ognezashhitnye_materialy,42867
+15769,Огнеупорные материалы,ogneupornye_materialy,42867
+288,Окна,okna,42867
+688,Оргстекло и поликарбонат,orgsteklo_i_polikarbonat,42867
+9776,Отделочные материалы,otdelochnye_materialy,42867
+802,Перегородки,peregorodki,42867
+10274,Песок и щебень,pesok_i_shheben,42867
+281,Пило- и лесоматериалы,pilo_i_lesomaterialy,42867
+47342,Плёнки для стёкол зданий,pljonki_dlya_stjokol_zdanijj,42867
+766,Погонажные изделия,pogonazhnye_izdeliya,42867
+110393,Подвесные потолки,podvesnye_potolki,42867
+590,Порошковые краски,poroshkovye_kraski,42867
+56669,Противопожарные конструкции,protivopozharnye_konstrukcii,42867
+102043,Резиновые покрытия,rezinovye_pokrytiya,42867
+110381,Светопрозрачные конструкции,svetoprozrachnye_konstrukcii,42867
+25194,Системы водоотведения,sistemy_vodootvedeniya,42867
+292,Стекло и зеркала,steklo_i_zerkala,42867
+24184,Стекломагнезитовые листы,steklomagnezitovye_listy,42867
+583,Стеновые панели,stenovye_paneli,42867
+16623,Строительные блоки,stroitelnye_bloki,42867
+112647,Строительные гипермаркеты,stroitelnye_gipermarkety,42867
+9777,Стройматериалы,strojjmaterialy,42867
+578,Сухие строительные смеси,sukhie_stroitelnye_smesi,42867
+7669,Сэндвич-панели,sehndvich_paneli,42867
+293,Теплоизоляционные материалы,teploizolyacionnye_materialy,42867
+540,Тротуарная плитка,trotuarnaya_plitka,42867
+503,Фасадные материалы и конструкции,fasadnye_materialy_i_konstrukcii,42867
+10902,Цемент,cement,42867
+9,Строительство / Недвижимость / Ремонт,stroitelstvo_nedvizhimost_remont,
+6510,Автоматизация инженерных систем,avtomatizaciya_inzhenernykh_sistem,9
+275,Агентства недвижимости,agentstva_nedvizhimosti,9
+7361,Алмазное бурение и резка,almaznoe_burenie_i_rezka,9
+12166,Антикоррозийная обработка металла,antikorrozijjnaya_obrabotka_metalla,9
+111506,Аренда концертных площадок,arenda_koncertnykh_ploshhadok,9
+110748,Аренда лофтов,arenda_loftov,9
+571,Аренда помещений,arenda_pomeshhenijj,9
+112596,Археологические работы,arkheologicheskie_raboty,9
+273,Архитектурное проектирование,arkhitekturnoe_proektirovanie,9
+13796,Бизнес-центры,biznes_centry,9
+9228,Биотуалеты,biotualety,9
+483,Буровые работы,burovye_raboty,9
+14488,Быстровозводимые здания,bystrovozvodimye_zdaniya,9
+484,Взрывные работы,vzryvnye_raboty,9
+699,"Внутренние системы отопления, водоснабжения, канализации",vnutrennie_sistemy_otopleniya_vodosnabzheniya_kanalizacii,9
+46726,Входные группы,vkhodnye_gruppy,9
+689,Высотные работы,vysotnye_raboty,9
+485,Геодезические работы,geodezicheskie_raboty,9
+52674,Геологические работы,geologicheskie_raboty,9
+486,Геофизические работы,geofizicheskie_raboty,9
+10139,Гидрогеологические работы,gidrogeologicheskie_raboty,9
+17448,Гидроизоляционные работы,gidroizolyacionnye_raboty,9
+671,Гидромассажное оборудование,gidromassazhnoe_oborudovanie,9
+10801,Гидротехническое строительство,gidrotekhnicheskoe_stroitelstvo,9
+12997,Девелопмент,development,9
+710,Деревообработка,derevoobrabotka,9
+331,Дизайн интерьеров,dizajjn_intererov,9
+110369,Дизайн ювелирных изделий,dizajjn_yuvelirnykh_izdelijj,9
+113424,Доверительное управление недвижимостью,doveritelnoe_upravlenie_nedvizhimostyu,9
+295,Застройщики,zastrojjshhiki,9
+110326,Звукоизоляционные работы,zvukoizolyacionnye_raboty,9
+53397,Земляные работы,zemlyanye_raboty,9
+52256,Изготовление макетов / Прототипирование,izgotovlenie_maketov_prototipirovanie,9
+703,Инжиниринговые услуги,inzhiniringovye_uslugi,9
+135,Кадастровые работы,kadastrovye_raboty,9
+104110,Коворкинг,kovorking,9
+17379,Конференц-залы,konferenc_zaly,9
+647,Кровельные работы,krovelnye_raboty,9
+274,Ландшафтный дизайн,landshaftnyjj_dizajjn,9
+110744,Локальные очистные сооружения,lokalnye_ochistnye_sooruzheniya,9
+704,Монтаж климатических систем,montazh_klimaticheskikh_sistem,9
+104197,Монтаж сантехнического оборудования,montazh_santekhnicheskogo_oborudovaniya,9
+110321,Монтаж систем освещения,montazh_sistem_osveshheniya,9
+10021,"Наружное отопление, водоснабжение, канализация",naruzhnoe_otoplenie_vodosnabzhenie_kanalizaciya,9
+16285,Недвижимость за рубежом,nedvizhimost_za_rubezhom,9
+603,Новостройки,novostrojjki,9
+440,Оборудование для очистки воды,oborudovanie_dlya_ochistki_vody,9
+18474,Обслуживание бассейнов,obsluzhivanie_bassejjnov,9
+111006,Озеленение помещений,ozelenenie_pomeshhenijj,9
+19504,Остекление и отделка балконов,osteklenie_i_otdelka_balkonov,9
+10112,Подводно-технические работы,podvodno_tekhnicheskie_raboty,9
+708,Полимерная порошковая окраска,polimernaya_poroshkovaya_okraska,9
+55693,Продажа земельных участков,prodazha_zemelnykh_uchastkov,9
+113504,Продажа коттеджей,prodazha_kottedzhejj,9
+17068,Проектирование дорог и мостов,proektirovanie_dorog_i_mostov,9
+5659,Проектирование инженерных систем,proektirovanie_inzhenernykh_sistem,9
+110386,Проектирование объектов добычи полезных ископаемых,proektirovanie_obektov_dobychi_poleznykh_iskopaemykh,9
+55669,Промышленная очистка сооружений,promyshlennaya_ochistka_sooruzhenijj,9
+700,Промышленное строительство,promyshlennoe_stroitelstvo,9
+54144,Промышленный дизайн,promyshlennyjj_dizajjn,9
+99231,Распиловка древесины,raspilovka_drevesiny,9
+587,Ремонт зданий,remont_zdanijj,9
+22771,Ремонт окон,remont_okon,9
+276,Ремонт помещений,remont_pomeshhenijj,9
+54403,Репетиционные студии,repeticionnye_studii,9
+21075,Реставрация ванн,restavraciya_vann,9
+291,Сантехника,santekhnika,9
+11641,Свайные работы,svajjnye_raboty,9
+15335,Сварочные работы,svarochnye_raboty,9
+15095,Снос зданий,snos_zdanijj,9
+21039,Согласование перепланировок,soglasovanie_pereplanirovok,9
+701,Строительство административных зданий,stroitelstvo_administrativnykh_zdanijj,9
+8068,Строительство АЗС,stroitelstvo_azs,9
+299,Строительство бань и саун,stroitelstvo_ban_i_saun,9
+297,Строительство бассейнов и аквапарков,stroitelstvo_bassejjnov_i_akvaparkov,9
+296,Строительство гаражей,stroitelstvo_garazhejj,9
+298,Строительство дач и коттеджей,stroitelstvo_dach_i_kottedzhejj,9
+294,Строительство дорог,stroitelstvo_dorog,9
+51100,Строительство и обслуживание АЭС / ГЭС / ТЭЦ,stroitelstvo_i_obsluzhivanie_aehs_gehs_tehc,9
+8020,Строительство и обслуживание наружного газоснабжения,stroitelstvo_i_obsluzhivanie_naruzhnogo_gazosnabzheniya,9
+110349,Строительство и обслуживание фонтанов,stroitelstvo_i_obsluzhivanie_fontanov,9
+15281,Строительство и обслуживание электросетей,stroitelstvo_i_obsluzhivanie_ehlektrosetejj,9
+49618,"Строительство мостов, тоннелей и метрополитена",stroitelstvo_mostov_tonnelejj_i_metropolitena,9
+51371,Строительство сельхозсооружений,stroitelstvo_selkhozsooruzhenijj,9
+51327,Строительство спортивных сооружений,stroitelstvo_sportivnykh_sooruzhenijj,9
+110444,Строительство фундамента,stroitelstvo_fundamenta,9
+13651,Теплоизоляционные работы,teploizolyacionnye_raboty,9
+489,"Товары для отопления, водоснабжения, канализации",tovary_dlya_otopleniya_vodosnabzheniya_kanalizacii,9
+21371,Тонирование стёкол зданий,tonirovanie_stjokol_zdanijj,9
+70159,Укладка напольных покрытий,ukladka_napolnykh_pokrytijj,9
+110449,Услуги аквапечати,uslugi_akvapechati,9
+110392,Услуги аэрографии,uslugi_aehrografii,9
+113374,Услуги плиткореза,uslugi_plitkoreza,9
+1609,Устройство промышленных и наливных полов,ustrojjstvo_promyshlennykh_i_nalivnykh_polov,9
+648,Фасадные работы,fasadnye_raboty,9
+54913,Экологические работы,ehkologicheskie_raboty,9
+702,Экспертиза зданий и сооружений,ehkspertiza_zdanijj_i_sooruzhenijj,9
+56757,Электроизмерительные работы,ehlektroizmeritelnye_raboty,9
+279,Электромонтажные работы,ehlektromontazhnye_raboty,9
+42872,Текстиль / Предметы интерьера,tekstil_predmety_interera,
+112438,Автомобильные ткани,avtomobilnye_tkani,42872
+53267,Декоративные аквасистемы,dekorativnye_akvasistemy,42872
+392,Домашний текстиль,domashnijj_tekstil,42872
+282,Жалюзи,zhalyuzi,42872
+112439,Запчасти для чемоданов,zapchasti_dlya_chemodanov,42872
+277,Интерьерные лестницы,interernye_lestnicy,42872
+394,Карнизы,karnizy,42872
+395,Керамические изделия,keramicheskie_izdeliya,42872
+278,Кованые изделия,kovanye_izdeliya,42872
+19505,Ковры,kovry,42872
+112797,"Мангалы, коптильни, тандыры",mangaly_koptilni_tandyry,42872
+554,Нетканые и технические материалы,netkanye_i_tekhnicheskie_materialy,42872
+548,Печи и камины для помещений,pechi_i_kaminy_dlya_pomeshhenijj,42872
+112796,Печники,pechniki,42872
+996,Портьерные ткани и шторы,porternye_tkani_i_shtory,42872
+610,Пряжа,pryazha,42872
+110436,Рольставни,rolstavni,42872
+23499,Таксидермические студии,taksidermicheskie_studii,42872
+110299,Текстиль для ресторанов и гостиниц,tekstil_dlya_restoranov_i_gostinic,42872
+508,Ткани,tkani,42872
+110443,Чердачные лестницы,cherdachnye_lestnicy,42872
+509,Швейная фурнитура,shvejjnaya_furnitura,42872
+746,Товары для животных / Ветеринария,tovary_dlya_zhivotnykh_veterinariya,
+697,Аквариумы,akvariumy,746
+99209,Ветеринарное оборудование,veterinarnoe_oborudovanie,746
+204,Ветеринарные аптеки,veterinarnye_apteki,746
+205,Ветеринарные клиники,veterinarnye_kliniki,746
+51407,Ветеринарные лаборатории,veterinarnye_laboratorii,746
+641,Ветеринарные препараты - опт,veterinarnye_preparaty_opt,746
+110651,Выгул животных,vygul_zhivotnykh,746
+51092,Выездные ветеринары,vyezdnye_veterinary,746
+53989,Дизайн аквариумов,dizajjn_akvariumov,746
+59284,Животноводство,zhivotnovodstvo,746
+51368,Зооателье,zooatele,746
+19661,Зоогостиницы,zoogostinicy,746
+52958,Зоотакси,zootaksi,746
+380,Зоотовары,zootovary,746
+112654,Кинологи,kinologi,746
+156,Клубы домашних животных и питомники,kluby_domashnikh_zhivotnykh_i_pitomniki,746
+110488,Курсы груминга,kursy_gruminga,746
+22064,Приюты для животных,priyuty_dlya_zhivotnykh,746
+51096,Ритуальные услуги для животных,ritualnye_uslugi_dlya_zhivotnykh,746
+113084,Рыбные хозяйства,rybnye_khozyajjstva,746
+1667,Сельхозкорма,selkhozkorma,746
+16414,Уход за животными,ukhod_za_zhivotnymi,746
+6547,Торговые комплексы / Спецмагазины,torgovye_kompleksy_specmagaziny,
+53304,Аксессуары для ванных комнат,aksessuary_dlya_vannykh_komnat,6547
+110512,Ароматовары,aromatovary,6547
+54644,Валяльно-войлочные изделия,valyalno_vojjlochnye_izdeliya,6547
+12127,Гипермаркеты,gipermarkety,6547
+54450,Гостиничные принадлежности,gostinichnye_prinadlezhnosti,6547
+112614,Дарксторы,darkstory,6547
+47633,Доставка продуктов,dostavka_produktov,6547
+22159,Доставка цветов,dostavka_cvetov,6547
+50850,Картографическая продукция,kartograficheskaya_produkciya,6547
+21448,Комиссионные магазины,komissionnye_magaziny,6547
+45018,Магазины подарочных сертификатов,magaziny_podarochnykh_sertifikatov,6547
+51202,Металлоискатели,metalloiskateli,6547
+54452,Надувная мебель и бассейны,naduvnaya_mebel_i_bassejjny,6547
+110325,Надувные конструкции,naduvnye_konstrukcii,6547
+54067,Настольные игры,nastolnye_igry,6547
+110333,Национальные товары,nacionalnye_tovary,6547
+112441,Новогодние сладкие подарки,novogodnie_sladkie_podarki,6547
+10905,Новогодние товары,novogodnie_tovary,6547
+52243,Ножи,nozhi,6547
+110446,Объёмные надписи и фигуры,objomnye_nadpisi_i_figury,6547
+112629,Оружейные магазины,oruzhejjnye_magaziny,6547
+67545,"Покупка драгметаллов, ювелирных изделий",pokupka_dragmetallov_yuvelirnykh_izdelijj,6547
+53833,Продажа живых бабочек,prodazha_zhivykh_babochek,6547
+51362,Радиоуправляемые модели,radioupravlyaemye_modeli,6547
+376,Рынки,rynki,6547
+110484,Сборные модели,sbornye_modeli,6547
+51103,Скидочные купоны,skidochnye_kupony,6547
+102026,Сувенирные композиции,suvenirnye_kompozicii,6547
+510,Сувениры,suveniry,6547
+350,Супермаркеты,supermarkety,6547
+110451,Товары для аквапечати,tovary_dlya_akvapechati,6547
+58634,Товары для аэрографии,tovary_dlya_aehrografii,6547
+12178,Товары для бань и саун,tovary_dlya_ban_i_saun,6547
+110938,Товары для пиво- и самогоноварения,tovary_dlya_pivo_i_samogonovareniya,6547
+71642,Товары для праздников,tovary_dlya_prazdnikov,6547
+58849,Товары для пчеловодства,tovary_dlya_pchelovodstva,6547
+15502,Товары для творчества,tovary_dlya_tvorchestva,6547
+19499,Торгово-развлекательные центры,torgovo_razvlekatelnye_centry,6547
+611,Торговые центры,torgovye_centry,6547
+110346,ТЦ товаров для интерьера и ремонта,tc_tovarov_dlya_interera_i_remonta,6547
+110480,Украшения для пирсинга,ukrasheniya_dlya_pirsinga,6547
+389,Цветы,cvety,6547
+390,Часы,chasy,6547
+19745,Эзотерические товары,ehzotericheskie_tovary,6547
+211,Эротические товары,ehroticheskie_tovary,6547
+391,Ювелирные изделия,yuvelirnye_izdeliya,6547
+50076,Ювелирные камни,yuvelirnye_kamni,6547
+5788,Ювелирные мастерские,yuvelirnye_masterskie,6547
+12,Транспорт / Грузоперевозки,transport_gruzoperevozki,
+400,Авиабилеты,aviabilety,12
+402,Авиагрузоперевозки,aviagruzoperevozki,12
+113076,Авиакассы,aviakassy,12
+401,Авиакомпании,aviakompanii,12
+55874,Авиатакси,aviataksi,12
+16968,Авиатехника,aviatekhnika,12
+16212,Автобусные билеты,avtobusnye_bilety,12
+113077,Автобусные кассы,avtobusnye_kassy,12
+416,Автовокзалы,avtovokzaly,12
+52968,Автодома,avtodoma,12
+18436,Автомобилестроение,avtomobilestroenie,12
+54409,Автомобильные номера,avtomobilnye_nomera,12
+342,Автоэкспертиза,avtoehkspertiza,12
+5799,Агентирование морских судов,agentirovanie_morskikh_sudov,12
+110309,Аренда ж/д тупика,arenda_zh_d_tupika,12
+1156,Аренда спецтехники,arenda_spectekhniki,12
+517,Аэропорты,aehroporty,12
+60732,Билеты на горнолыжные подъёмники,bilety_na_gornolyzhnye_podjomniki,12
+12075,Бункеровка судов,bunkerovka_sudov,12
+8533,Гаражные кооперативы,garazhnye_kooperativy,12
+721,Городские автогрузоперевозки,gorodskie_avtogruzoperevozki,12
+13306,Грузчики,gruzchiki,12
+18471,Дорожные устройства,dorozhnye_ustrojjstva,12
+7960,Железнодорожное оборудование,zheleznodorozhnoe_oborudovanie,12
+421,Железнодорожные билеты,zheleznodorozhnye_bilety,12
+422,Железнодорожные вокзалы,zheleznodorozhnye_vokzaly,12
+423,Железнодорожные грузоперевозки,zheleznodorozhnye_gruzoperevozki,12
+113078,Железнодорожные кассы,zheleznodorozhnye_kassy,12
+728,Заказ автобусов,zakaz_avtobusov,12
+112440,Заказ трансфера,zakaz_transfera,12
+112697,Залы ожидания повышенного комфорта,zaly_ozhidaniya_povyshennogo_komforta,12
+10106,Запчасти для судов,zapchasti_dlya_sudov,12
+113079,Кассы речного транспорта,kassy_rechnogo_transporta,12
+49573,Коллективные автостоянки,kollektivnye_avtostoyanki,12
+55727,Контейнеры для грузоперевозок,kontejjnery_dlya_gruzoperevozok,12
+7949,Материалы для ж/д путей,materialy_dlya_zh_d_putejj,12
+103524,Междугородные / Международные пассажирские перевозки,mezhdugorodnye_mezhdunarodnye_passazhirskie_perevozki,12
+417,Междугородные автогрузоперевозки,mezhdugorodnye_avtogruzoperevozki,12
+9741,Международные грузоперевозки,mezhdunarodnye_gruzoperevozki,12
+535,Метрополитен,metropoliten,12
+419,Морские и речные грузоперевозки,morskie_i_rechnye_gruzoperevozki,12
+9961,Морские порты,morskie_porty,12
+9505,Морской вокзал,morskojj_vokzal,12
+429,Мототехника,mototekhnika,12
+16796,Обслуживание судового оборудования,obsluzhivanie_sudovogo_oborudovaniya,12
+12486,Оформление купли-продажи автомобилей,oformlenie_kupli_prodazhi_avtomobilejj,12
+4535,Пассажирские транспортные предприятия,passazhirskie_transportnye_predpriyatiya,12
+110400,Перевозка людей с ограниченными возможностями,perevozka_lyudejj_s_ogranichennymi_vozmozhnostyami,12
+111502,Подбор автомобиля перед покупкой,podbor_avtomobilya_pered_pokupkojj,12
+112640,Помощь в регистрации переоборудования авто,pomoshh_v_registracii_pereoborudovaniya_avto,12
+113081,Пригородные вокзалы,prigorodnye_vokzaly,12
+112673,Пригородные кассы,prigorodnye_kassy,12
+113080,Причалы,prichaly,12
+665,Продажа автобусов,prodazha_avtobusov,12
+53308,Продажа бронированных автомобилей,prodazha_bronirovannykh_avtomobilejj,12
+428,Продажа грузовых автомобилей,prodazha_gruzovykh_avtomobilejj,12
+431,Продажа легковых автомобилей,prodazha_legkovykh_avtomobilejj,12
+21493,Проездные и транспортные карты,proezdnye_i_transportnye_karty,12
+18974,Производство автокомплектующих,proizvodstvo_avtokomplektuyushhikh,12
+418,Прокат автотранспорта,prokat_avtotransporta,12
+18989,Прокат водно-спортивной техники,prokat_vodno_sportivnojj_tekhniki,12
+112611,Пункты выдачи интернет-заказов,punkty_vydachi_internet_zakazov,12
+9529,Ремонт водно-спортивной техники,remont_vodno_sportivnojj_tekhniki,12
+54111,Ремонт железнодорожной техники,remont_zheleznodorozhnojj_tekhniki,12
+420,Речной вокзал,rechnojj_vokzal,12
+3236,Сельхозтехника,selkhoztekhnika,12
+5279,Складское хранение,skladskoe_khranenie,12
+110406,Склады индивидуального хранения,sklady_individualnogo_khraneniya,12
+432,Спецтехника,spectekhnika,12
+5800,Стивидорные услуги,stividornye_uslugi,12
+53982,Строительство автопаркингов,stroitelstvo_avtoparkingov,12
+7948,Строительство железных дорог,stroitelstvo_zheleznykh_dorog,12
+5802,Судостроение и судоремонт,sudostroenie_i_sudoremont,12
+10128,Сюрвейерские услуги,syurvejjerskie_uslugi,12
+50186,Такелажные работы,takelazhnye_raboty,12
+533,Такси,taksi,12
+534,Трамвайные депо,tramvajjnye_depo,12
+536,Троллейбусные депо,trollejjbusnye_depo,12
+51358,Услуги водителя без автомобиля,uslugi_voditelya_bez_avtomobilya,12
+112625,Услуги лоцмана,uslugi_locmana,12
+12078,Фрахтование морских судов,frakhtovanie_morskikh_sudov,12
+110337,Химия для водно-спортивной техники,khimiya_dlya_vodno_sportivnojj_tekhniki,12
+12076,Шипчандлерские услуги,shipchandlerskie_uslugi,12
+8534,Экспедирование грузов,ehkspedirovanie_gruzov,12
+338,Экспресс-почта,ehkspress_pochta,12
+110347,Электросамокаты и электровелосипеды,ehlektrosamokaty_i_ehlektrovelosipedy,12
+11,Хозтовары / Канцелярия / Упаковка,khoztovary_kancelyariya_upakovka,
+16498,Биотопливо,biotoplivo,11
+52971,Блистерная упаковка,blisternaya_upakovka,11
+112681,Буккроссинг,bukkrossing,11
+627,Бумажная упаковка,bumazhnaya_upakovka,11
+362,Бытовая химия,bytovaya_khimiya,11
+10291,Гофротара,gofrotara,11
+18978,Деревянная тара,derevyannaya_tara,11
+1055,Календари и открытки,kalendari_i_otkrytki,11
+381,Канцтовары,kanctovary,11
+347,Книги,knigi,11
+110486,Комиксы,komiksy,11
+110518,Кондитерский инвентарь,konditerskijj_inventar,11
+50841,Металлическая тара,metallicheskaya_tara,11
+632,Одноразовая посуда,odnorazovaya_posuda,11
+940,Офисная бумага,ofisnaya_bumaga,11
+626,Пакеты и плёнки,pakety_i_pljonki,11
+47672,Питомники растений,pitomniki_rastenijj,11
+624,Пластиковая тара,plastikovaya_tara,11
+7591,Подарочная упаковка,podarochnaya_upakovka,11
+396,Посуда,posuda,11
+53981,Ремонт садового инвентаря,remont_sadovogo_inventarya,11
+397,Садовый инвентарь,sadovyjj_inventar,11
+385,Семена и посадочный материал,semena_i_posadochnyjj_material,11
+59511,Спички,spichki,11
+53061,Средства защиты от вредителей,sredstva_zashhity_ot_vreditelejj,11
+242,Средства защиты растений и удобрения,sredstva_zashhity_rastenijj_i_udobreniya,11
+7406,Стеклянная тара,steklyannaya_tara,11
+24392,Теплицы,teplicy,11
+1237,Укрывной материал,ukryvnojj_material,11
+50840,Укупорочные изделия,ukuporochnye_izdeliya,11
+635,Упаковочные материалы,upakovochnye_materialy,11
+110328,Услуги по упаковке подарков,uslugi_po_upakovke_podarkov,11
+112620,Услуги фасовки и упаковки товаров,uslugi_fasovki_i_upakovki_tovarov,11
+348,Учебная литература,uchebnaya_literatura,11
+398,Хозтовары,khoztovary,11
+42863,Электроника / Электротехника,ehlektronika_ehlektrotekhnika,
+1242,Геодезическое оборудование,geodezicheskoe_oborudovanie,42863
+110455,Геофизическое оборудование,geofizicheskoe_oborudovanie,42863
+595,Кабель и провод,kabel_i_provod,42863
+690,Контрольно-измерительные приборы,kontrolno_izmeritelnye_pribory,42863
+51746,Оборудование радиационного контроля,oborudovanie_radiacionnogo_kontrolya,42863
+110334,Опоры линий электропередач,opory_linijj_ehlektroperedach,42863
+936,Оптические приборы,opticheskie_pribory,42863
+463,Радиоэлектронные приборы,radioehlektronnye_pribory,42863
+514,Ремонт электродвигателей,remont_ehlektrodvigatelejj,42863
+591,Светотехника,svetotekhnika,42863
+49784,Судовое электрооборудование,sudovoe_ehlektrooborudovanie,42863
+674,Электродвигатели и редукторы,ehlektrodvigateli_i_reduktory,42863
+502,Электроизоляционные материалы,ehlektroizolyacionnye_materialy,42863
+459,Электронагревательное оборудование,ehlektronagrevatelnoe_oborudovanie,42863
+462,Электронные компоненты,ehlektronnye_komponenty,42863
+67128,Электронные табло,ehlektronnye_tablo,42863
+399,Электротехника,ehlektrotekhnika,42863
+461,Электроустановочная продукция,ehlektroustanovochnaya_produkciya,42863
+592,Элементы питания,ehlementy_pitaniya,42863
+969,Юридические / финансовые / бизнес-услуги,yuridicheskie_finansovye_biznes_uslugi,
+22129,Call-центры,call_centry,969
+67337,Арбитражный управляющий,arbitrazhnyjj_upravlyayushhijj,969
+112649,Аренда сейфовых ячеек,arenda_sejjfovykh_yacheek,969
+20750,Архивные услуги,arkhivnye_uslugi,969
+339,Аудиторские услуги,auditorskie_uslugi,969
+110429,Аутсорсинг печати,autsorsing_pechati,969
+492,Банки,banki,969
+522,Банкоматы,bankomaty,969
+67369,Бизнес-инкубаторы,biznes_inkubatory,969
+653,Бухгалтерские услуги,bukhgalterskie_uslugi,969
+110440,Бюро кредитных историй,byuro_kreditnykh_istorijj,969
+636,Ведение дел в судах,vedenie_del_v_sudakh,969
+110318,Ведение реестра ценных бумаг,vedenie_reestra_cennykh_bumag,969
+112424,Визовые центры,vizovye_centry,969
+329,Защита авторских прав,zashhita_avtorskikh_prav,969
+639,Изготовление печатей и штампов,izgotovlenie_pechatejj_i_shtampov,969
+110415,Инвестиционные драгоценные металлы,investicionnye_dragocennye_metally,969
+14142,Инвестиционные компании,investicionnye_kompanii,969
+110525,Ипотечные займы,ipotechnye_zajjmy,969
+16322,Ипотечные кредиты,ipotechnye_kredity,969
+14685,Коллекторские услуги,kollektorskie_uslugi,969
+112451,Краудфандинг-площадки,kraudfanding_ploshhadki,969
+5435,Кредитные потребительские кооперативы,kreditnye_potrebitelskie_kooperativy,969
+637,Лизинговые услуги,lizingovye_uslugi,969
+13311,Лицензирование,licenzirovanie,969
+497,Ломбарды,lombardy,969
+330,Миграционные услуги,migracionnye_uslugi,969
+23847,Микрофинансирование,mikrofinansirovanie,969
+17205,Негосударственные пенсионные фонды,negosudarstvennye_pensionnye_fondy,969
+99200,Независимая инвентаризация,nezavisimaya_inventarizaciya,969
+343,Нотариусы,notariusy,969
+498,Обмен валюты,obmen_valyuty,969
+110510,Обучение трейдингу,obuchenie_trejjdingu,969
+112452,Операторы инвестиционных платформ,operatory_investicionnykh_platform,969
+495,Операции на фондовом рынке,operacii_na_fondovom_rynke,969
+110447,Организация бизнес-мероприятий,organizaciya_biznes_meropriyatijj,969
+21302,Организация внешнеэкономической деятельности,organizaciya_vneshneehkonomicheskojj_deyatelnosti,969
+942,Организация выставок,organizaciya_vystavok,969
+22115,Оформление виз,oformlenie_viz,969
+139,Оформление недвижимости,oformlenie_nedvizhimosti,969
+53832,Охрана труда,okhrana_truda,969
+332,Оценка собственности,ocenka_sobstvennosti,969
+664,Патентные услуги,patentnye_uslugi,969
+4427,ПИФы,pify,969
+56326,Пожарная безопасность,pozharnaya_bezopasnost,969
+110425,Помощь в банкротстве физлиц,pomoshh_v_bankrotstve_fizlic,969
+16293,Помощь в оформлении ипотеки,pomoshh_v_oformlenii_ipoteki,969
+24738,Помощь в оформлении кредита,pomoshh_v_oformlenii_kredita,969
+110383,Помощь в оформлении членства СРО,pomoshh_v_oformlenii_chlenstva_sro,969
+110403,Помощь в разработке документов по ГО и ЧС,pomoshh_v_razrabotke_dokumentov_po_go_i_chs,969
+50210,Продажа бизнеса,prodazha_biznesa,969
+112660,Продажа залогового имущества,prodazha_zalogovogo_imushhestva,969
+104196,Процессинговые центры,processingovye_centry,969
+112794,Пункты денежных переводов,punkty_denezhnykh_perevodov,969
+51373,Радиационный контроль,radiacionnyjj_kontrol,969
+638,Регистрация и ликвидация предприятий,registraciya_i_likvidaciya_predpriyatijj,969
+663,Регистрация ценных бумаг,registraciya_cennykh_bumag,969
+51322,Ресторанный консалтинг,restorannyjj_konsalting,969
+21466,Саморегулируемые организации,samoreguliruemye_organizacii,969
+13312,Сертификация,sertifikaciya,969
+20965,Системы денежных переводов,sistemy_denezhnykh_perevodov,969
+341,Страхование,strakhovanie,969
+844,Таможенное оформление,tamozhennoe_oformlenie,969
+50374,Тендеры и аукционы,tendery_i_aukciony,969
+112646,Терминалы по приёму монет,terminaly_po_prijomu_monet,969
+1238,Управленческий консалтинг,upravlencheskijj_konsalting,969
+110521,Услуги адвоката,uslugi_advokata,969
+112587,Услуги маркировки товаров,uslugi_markirovki_tovarov,969
+110522,Услуги медиаторов,uslugi_mediatorov,969
+16028,Факторинг,faktoring,969
+1236,Финансовый консалтинг,finansovyjj_konsalting,969
+110472,Фитнес-консалтинг,fitnes_konsalting,969
+110416,Фулфилмент,fulfilment,969
+19571,Экологическая оценка,ehkologicheskaya_ocenka,969
+54622,Экспертиза лекарств,ehkspertiza_lekarstv,969
+103405,Экспертиза проектной документации и инженерных изысканий,ehkspertiza_proektnojj_dokumentacii_i_inzhenernykh_izyskanijj,969
+831,Экспертиза промышленной безопасности,ehkspertiza_promyshlennojj_bezopasnosti,969
+20944,Экспертиза товаров,ehkspertiza_tovarov,969
+110327,Экспертиза уровня шума,ehkspertiza_urovnya_shuma,969
+25012,Энергоаудит,ehnergoaudit,969
+344,Юридические услуги,yuridicheskie_uslugi,969
